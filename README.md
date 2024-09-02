@@ -7,18 +7,23 @@ Hello! I’m Mansi Kushwaha, currently a Gec coordinator at IGDTUW, diving deep 
 ## 💻 Passionate about:
 
 AI/ML
+
 Generative AI(basic)
+
 Prompt Engineering(basic)
+
 Python Programming
 
 ## 🌟 Experience:
 
 Summer Intern '23 in Python and Machine Learning (AI/ML)
+
 Summer Intern '24 in Generative AI and Prompt Engineering
 
 ## 🚀 Leadership Roles:
 
 Head Coordinator at INNERVE
+
 GEC Coordinator at IGDTUW
 
 ## 🔗 Let's Connect:
