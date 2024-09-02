@@ -1,6 +1,6 @@
 ## Welcome to My World: Mansi kushwaha @Mansi232323👋
 
-**🎓 Pursuing Innovation in Technology**
+## 🎓 Pursuing Innovation in Technology
 
 Hello! I’m Mansi Kushwaha, currently a Gec coordinator at IGDTUW, diving deep into the fascinating world of Electrical and Communication Engineering with a specialization in Artificial Intelligence. My academic journey is more than just grades; it's about exploring the limitless possibilities in technology.
 <!--
