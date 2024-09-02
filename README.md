@@ -29,6 +29,9 @@ Head Coordinator at INNERVE
 GEC Coordinator at IGDTUW
 
 ## 🏆 Achievements:
+Mentor: #Desh Ke Mentor - Guided and mentored girl students with useful tricks and tips to excel in their studies.
+
+Mentee: #GDSC-IGDTUW - Active participant and learner in the Google Developer Student Club at IGDTUW.
 
 First Position in ADZAP competition and Slogan Writing competition (9th Standard).
 
