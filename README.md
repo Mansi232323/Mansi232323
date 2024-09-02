@@ -8,9 +8,9 @@ Hello! I’m Mansi Kushwaha, currently a Gec coordinator at IGDTUW, diving deep 
 
 AI/ML
 
-Generative AI(basic)
+Generative AI (basic)
 
-Prompt Engineering(basic)
+Prompt Engineering (basic)
 
 Python Programming
 
