@@ -28,6 +28,13 @@ Head Coordinator at INNERVE
 
 GEC Coordinator at IGDTUW
 
+## 🏆 Achievements:
+
+First Position in ADZAP competition and Slogan Writing competition (9th Standard).
+
+Dance: Participated in the Inter-College Solo Western Dance Competition at IGDTUW, organized by Hypnotics (Dance Society).
+
+
 ## 🔗 Let's Connect:
 linkedin: www.linkedin.com/in/mansi-kushwaha-140424261
 <!--
