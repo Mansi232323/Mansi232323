@@ -51,6 +51,8 @@ Python and Machine Learning: Successfully completed a 7-week summer internship o
 
 ## 🔗 Let's Connect:
 linkedin: www.linkedin.com/in/mansi-kushwaha-140424261
+unstop: https://unstop.com/u/mansikus5847
+
 <!--
 
 **Mansi232323/Mansi232323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
