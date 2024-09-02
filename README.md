@@ -37,6 +37,17 @@ First Position in ADZAP competition and Slogan Writing competition (9th Standard
 
 Dance: Participated in the Inter-College Solo Western Dance Competition at IGDTUW, organized by Hypnotics (Dance Society).
 
+## Hackathons:
+
+Smart India Hackathon: Participated in the Internal round at IGDTUW.
+
+Flipkart GRiD 6.0: Competed in the Software Development Track (Level 1) - E-commerce and Tech Quiz.
+
+Adobe GenSolve Hackathon: Engaged in innovative problem-solving and development.
+
+##🎓 Certifications:
+
+Python and Machine Learning: Successfully completed a 7-week summer internship on "Python
 
 ## 🔗 Let's Connect:
 linkedin: www.linkedin.com/in/mansi-kushwaha-140424261
