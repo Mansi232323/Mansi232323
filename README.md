@@ -35,19 +35,19 @@ Mentee: #GDSC-IGDTUW - Active participant and learner in the Google Developer St
 
 First Position in ADZAP competition and Slogan Writing competition (9th Standard).
 
-Dance: Participated in the Inter-College Solo Western Dance Competition at IGDTUW, organized by Hypnotics (Dance Society).
+Dance: Participated in the Inter-College Solo Western Dance Competition at IGDTUW'23, organized by Hypnotics (Dance Society).
 
 ## Hackathons:
 
-Smart India Hackathon: Participated in the Internal round at IGDTUW.
+Smart India Hackathon: Participated in the Internal round at IGDTUW'23.
 
-Flipkart GRiD 6.0: Competed in the Software Development Track (Level 1) - E-commerce and Tech Quiz.
+Flipkart GRiD 6.0: Competed in the Software Development Track (Level 1) - E-commerce and Tech Quiz'24.
 
-Adobe GenSolve Hackathon: Engaged in innovative problem-solving and development.
+Adobe GenSolve Hackathon: Engaged in innovative problem-solving and development'24.
 
 ##🎓 Certifications:
 
-Python and Machine Learning: Successfully completed a 7-week summer internship on "Python
+Python and Machine Learning: Successfully completed a 7-week summer internship on Python'23
 
 ## 🔗 Let's Connect:
 linkedin: www.linkedin.com/in/mansi-kushwaha-140424261
