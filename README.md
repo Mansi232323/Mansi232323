@@ -8,9 +8,7 @@ Hello! I’m Mansi Kushwaha, currently a Gec coordinator at IGDTUW, diving deep 
 
 AI/ML
 
-Generative AI (basic)
-
-Prompt Engineering (basic)
+Generative AI & Prompt Engineering (basic)
 
 Python Programming
 
@@ -51,6 +49,7 @@ Python and Machine Learning: Successfully completed a 7-week summer internship o
 
 ## 🔗 Let's Connect:
 linkedin: www.linkedin.com/in/mansi-kushwaha-140424261
+
 unstop: https://unstop.com/u/mansikus5847
 
 <!--
