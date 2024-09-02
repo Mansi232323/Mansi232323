@@ -14,6 +14,8 @@ Prompt Engineering(basic)
 
 Python Programming
 
+c++ Programming
+
 ## 🌟 Experience:
 
 Summer Intern '23 in Python and Machine Learning (AI/ML)
