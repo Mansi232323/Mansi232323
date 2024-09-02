@@ -29,25 +29,25 @@ Head Coordinator at INNERVE
 GEC Coordinator at IGDTUW
 
 ## 🏆 Achievements:
-Mentor: #Desh Ke Mentor - Guided and mentored girl students with useful tricks and tips to excel in their studies.
+Mentor: #Desh Ke Mentor '22 - Guided and mentored girl students with useful tricks and tips to excel in their studies.
 
-Mentee: #GDSC-IGDTUW - Active participant and learner in the Google Developer Student Club at IGDTUW.
+Mentee: #GDSC-IGDTUW '22 - Active participant and learner in the Google Developer Student Club at IGDTUW.
 
 First Position in ADZAP competition and Slogan Writing competition (9th Standard).
 
-Dance: Participated in the Inter-College Solo Western Dance Competition at IGDTUW'23, organized by Hypnotics (Dance Society).
+Dance: Participated in the Inter-College Solo Western Dance Competition at IGDTUW '23, organized by Hypnotics (Dance Society).
 
 ## Hackathons:
 
-Smart India Hackathon: Participated in the Internal round at IGDTUW'23.
+Smart India Hackathon: Participated in the Internal round at IGDTUW '23.
 
-Flipkart GRiD 6.0: Competed in the Software Development Track (Level 1) - E-commerce and Tech Quiz'24.
+Flipkart GRiD 6.0: Competed in the Software Development Track (Level 1) - E-commerce and Tech Quiz '24.
 
-Adobe GenSolve Hackathon: Engaged in innovative problem-solving and development'24.
+Adobe GenSolve Hackathon: Engaged in innovative problem-solving and development '24.
 
 ##🎓 Certifications:
 
-Python and Machine Learning: Successfully completed a 7-week summer internship on Python'23
+Python and Machine Learning: Successfully completed a 7-week summer internship on Python '23.
 
 ## 🔗 Let's Connect:
 linkedin: www.linkedin.com/in/mansi-kushwaha-140424261
