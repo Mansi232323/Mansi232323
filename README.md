@@ -43,7 +43,7 @@ Flipkart GRiD 6.0: Competed in the Software Development Track (Level 1) - E-comm
 
 Adobe GenSolve Hackathon: Engaged in innovative problem-solving and development '24.
 
-##🎓 Certifications:
+## 🎓 Certifications:
 
 Python and Machine Learning: Successfully completed a 7-week summer internship on Python '23.
 
