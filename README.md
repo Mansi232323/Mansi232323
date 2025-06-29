@@ -20,6 +20,8 @@ Summer Intern '23 in Python and Machine Learning (AI/ML)
 
 Summer Intern '24 in Generative AI and Prompt Engineering
 
+Summer Intern '25 in Data Science
+
 ## 🚀 Leadership Roles:
 
 Head Coordinator at INNERVE
@@ -43,11 +45,13 @@ Flipkart GRiD 6.0: Competed in the Software Development Track (Level 1) - E-comm
 
 Adobe GenSolve Hackathon: Engaged in innovative problem-solving and development '24.
 
-Participated in GeeksforGeeks * IGDTUW Hackfest, developing (Aarogya) a healthcare website '24.
+Participated in GeeksforGeeks'IGDTUW Hackfest, developing (Aarogya) a healthcare website '24.
 
 ## 🎓 Certifications:
 
 Python and Machine Learning: Successfully completed a 7-week summer internship on Python '23.
+
+Generative AI and Prompt Engineering: Successfully completed a 6-week summer internship on Python '24.
 
 ## 🔗 Let's Connect:
 linkedin: www.linkedin.com/in/mansi-kushwaha-140424261
