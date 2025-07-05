@@ -51,7 +51,7 @@ Participated in GeeksforGeeks'IGDTUW Hackfest, developing (Aarogya) a healthcare
 
 Python and Machine Learning: Successfully completed a 7-week summer internship on Python '23.
 
-Generative AI and Prompt Engineering: Successfully completed a 6-week summer internship on Python '24.
+Generative AI and Prompt Engineering: Successfully completed a 6-week summer internship '24.
 
 ## 🔗 Let's Connect:
 linkedin: www.linkedin.com/in/mansi-kushwaha-140424261
