@@ -33,7 +33,7 @@ Mentor: #Desh Ke Mentor '22 - Guided and mentored girl students with useful tric
 
 Mentee: #GDSC-IGDTUW '22 - Active participant and learner in the Google Developer Student Club at IGDTUW.
 
-First Position in ADZAP competition and Slogan Writing competition (9th Standard).
+First Position in the ADZAP competition and the Slogan Writing competition (9th Standard).
 
 Dance: Participated in the Inter-College Solo Western Dance Competition at IGDTUW '23, organized by Hypnotics (Dance Society).
 
@@ -49,9 +49,11 @@ Participated in GeeksforGeeks'IGDTUW Hackfest, developing (Aarogya) a healthcare
 
 ## 🎓 Certifications:
 
-Python and Machine Learning: Successfully completed a 7-week summer internship on Python '23.
+Python and Machine Learning: Completed a 7-week summer internship on Python '23.
 
-Generative AI and Prompt Engineering: Successfully completed a 6-week summer internship '24.
+Generative AI and Prompt Engineering: Completed a 6-week summer internship '24.
+
+Data Science: Completed an 8-week-long summer internship on Python '25.
 
 ## 🔗 Let's Connect:
 linkedin: www.linkedin.com/in/mansi-kushwaha-140424261
