@@ -17,18 +17,6 @@
 
 ---
 
-# 🧭 NAVIGATION
-
-<div align="center">
-
-**[👩‍💻 ABOUT]** • **[💻 SKILLS]** • **[💼 EXPERIENCE]** • **[📂 17 PROJECTS]** • **[🏆 ACHIEVEMENTS]**
-
-**[📜 CERTIFICATIONS]** • **[📊 GITHUB ACTIVITY]** • **[🚀 ROADMAP]** • **[🤝 CONNECT]**
-
-</div>
-
----
-
 # 👩‍💻 ABOUT ME
 
 <table>
@@ -41,6 +29,8 @@
 I'm **Mansi Kushwaha**, a B.Tech graduate in **Electronics & Communication Engineering (Artificial Intelligence)** from **IGDTUW**.
 
 I'm passionate about transforming **raw data into actionable insights** and building intelligent solutions for real-world problems.
+
+My interests span across **Data Analytics, Machine Learning, Artificial Intelligence, and Generative AI**, with a strong focus on practical problem-solving and continuous learning.
 
 ### 🔎 My Core Areas
 
@@ -86,6 +76,52 @@ I'm passionate about transforming **raw data into actionable insights** and buil
 
 </tr>
 </table>
+
+---
+
+# 🎯 WHAT I DO
+
+I work at the intersection of **Data Analytics, Artificial Intelligence, and Machine Learning**, focusing on transforming data into meaningful insights and practical intelligent solutions.
+
+### 📊 Data Analytics
+
+I work with **Excel, Power Query, SQL, Python, Power BI, and Tableau** to clean, transform, analyze, and visualize data.
+
+My focus is on identifying patterns, understanding business problems, creating meaningful dashboards, and converting raw data into **clear and actionable insights**.
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+I explore **Machine Learning, Deep Learning, NLP, Computer Vision, and Predictive Analytics** to solve real-world problems using data-driven approaches.
+
+I enjoy working through the complete process — from **data preparation and exploratory analysis to model development, evaluation, and interpretation**.
+
+### ✨ Generative AI
+
+I'm interested in **Generative AI, Prompt Engineering, and AI-powered applications**.
+
+I explore how modern AI technologies can be used to improve productivity, automate tasks, generate insights, and create smarter solutions.
+
+### 🧩 My Problem-Solving Approach
+
+```text
+RAW DATA
+    ↓
+🧹 CLEAN
+    ↓
+🔄 TRANSFORM
+    ↓
+🔍 ANALYZE
+    ↓
+📊 VISUALIZE
+    ↓
+🧠 MODEL
+    ↓
+💡 INSIGHT
+    ↓
+🚀 IMPACT
+```
+
+I believe in continuously **learning, building, experimenting, and improving** through practical work and real-world problem solving.
 
 ---
 
@@ -167,294 +203,6 @@ I'm passionate about transforming **raw data into actionable insights** and buil
 ### 🎯 INSIGHTS & IMPACT
 
 **Business Decisions**
-
-</div>
-
----
-
-# 📂 PROJECTS SHOWCASE
-
-## 🚀 17 PROJECTS • DATA • AI • ML • ANALYTICS
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 📊 01. Superstore Sales
-
-**Time Intelligence Analysis**
-
-`Excel` `Power Pivot` `DAX`
-
-Sales analysis and time-intelligence based business insights.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 👥 02. HR DATAFORGE
-
-**Multi-Workbook HR Analytics**
-
-`Power Query` `Excel` `PivotTables`
-
-Cleaning and workforce analysis across **5 monthly HR workbooks**.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📈 03. Retail Sales
-
-**Analytics Dashboard**
-
-`Excel` `Power Pivot` `DAX`
-
-Interactive retail sales analytics and dashboard reporting.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### 🛡️ 04. Phishing Detection
-
-**URL-Based NLP**
-
-`Python` `ML` `DL` `NLP`
-
-Benchmarking machine-learning and deep-learning approaches for phishing URL detection.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🔄 05. Sales Transformation
-
-**Customer Analysis**
-
-`Power Query` `Excel`
-
-Cleaning, transforming, grouping and analyzing sales data at customer level.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🏥 06. Healthcare Analytics
-
-**3D Dynamic Dashboard**
-
-`Excel` `Power Query` `Power Pivot` `VBA`
-
-Interactive and automated healthcare analytics dashboard.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### 👩‍💼 07. Employee Performance
-
-**Workforce Dashboard**
-
-`Excel` `Dashboard` `Analytics`
-
-Employee productivity and customer-service performance monitoring.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🤖 08. AutoCost-AI
-
-**Enterprise Cost Intelligence**
-
-`AI` `Jupyter`
-
-AI-powered enterprise cost intelligence and autonomous action platform.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🧠 09. Clinical NLP
-
-**Relation Extraction**
-
-`ML` `DL` `NLP`
-
-Explainable clinical relation extraction using interpretable models.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### 🧴 10. Skin Cancer
-
-**Image Classification**
-
-`Python` `Deep Learning` `CNN`
-
-Skin cancer image classification using dermoscopic images.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🚗 11. ABG Motors
-
-**Capstone Project**
-
-`Python` `Data Science` `Predictive Analytics`
-
-Market-entry analysis for ABG Motors.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🌐 12. IGDTUW Clone
-
-**Website Clone**
-
-`HTML` `CSS` `JavaScript`
-
-Frontend replica of the IGDTUW website.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### ⚖️ 13. TinyRights
-
-**Web Project**
-
-`HTML`
-
-Web-based project developed through collaborative/open-source work.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🩺 14. Aarogya
-
-**Healthcare Web Project**
-
-`HTML`
-
-Healthcare-focused web project.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-<td width="33%" valign="top">
-
-### ✨ 15. Text Generation AI
-
-**Next Word Prediction**
-
-`Python` `Jupyter`
-
-Text generation and next-word prediction project.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🐍 16. Python AI / ML
-
-**Major Project**
-
-`Python` `Machine Learning`
-
-Major academic AI/ML project.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 17. Python Using Machine Learning
-
-**Minor Project**
-
-`Python` `Machine Learning`
-
-Minor academic machine-learning project.
-
-**[🔗 VIEW PROJECT →]**
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🏆 PROJECT CATEGORIES
-
-<div align="center">
-
-| 📊 DATA ANALYTICS    | 🤖 AI / ML         | 💻 DEVELOPMENT |
-| -------------------- | ------------------ | -------------- |
-| Superstore Sales     | Phishing Detection | IGDTUW Clone   |
-| HR DATAFORGE         | AutoCost-AI        | TinyRights     |
-| Retail Analytics     | Clinical NLP       | Aarogya        |
-| Sales Transformation | Skin Cancer        |                |
-| Healthcare Analytics | Text Generation    |                |
-| Employee Dashboard   | Python AI/ML       |                |
-| ABG Motors           | ML Minor Project   |                |
 
 </div>
 
