@@ -1,77 +1,202 @@
-## Welcome to My World: Mansi kushwaha @Mansi232323👋
+# 👋 Hey, I'm Mansi Kushwaha
 
-## 🎓 Pursuing Innovation in Technology
+### `Data Analyst` • `Data Scientist` • `ML Engineer` • `AI Enthusiast`
 
-Hello! I’m Mansi Kushwaha, currently a Gec coordinator at IGDTUW, diving deep into the fascinating world of Electrical and Communication Engineering with a specialization in Artificial Intelligence. My academic journey is more than just grades; it's about exploring the limitless possibilities in technology.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+Intelligent+Solutions+%F0%9F%A4%96;Exploring+AI+%26+Machine+Learning+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-## 💻 Passionate about:
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_UNSTOP_URL">
+    <img src="https://img.shields.io/badge/Unstop-Profile-FF6B35?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  </a>
+</p>
 
-AI/ML
+---
 
-Generative AI & Prompt Engineering (basic)
+## 🧠 About Me
 
-Python Programming
+🎓 B.Tech in **Electronics & Communication Engineering (Artificial Intelligence)** from **IGDTUW**
 
-c++ Programming
+💡 I enjoy transforming raw data into **meaningful insights, predictive models, and intelligent applications**.
 
-## 🌟 Experience:
+🔍 My interests include **Data Analytics, Machine Learning, Deep Learning, Generative AI, and Business Intelligence**.
 
-Summer Intern '23 in Python and Machine Learning (AI/ML)
+📊 I love working across the complete data journey — from **data cleaning & EDA → visualization → modeling → insights**.
 
-Summer Intern '24 in Generative AI and Prompt Engineering
+🚀 Currently exploring ways to combine **AI + Data + Automation** to solve real-world problems.
 
-Summer Intern '25 in Data Science
+---
 
-## 🚀 Leadership Roles:
+## ⚡ Tech Stack
 
-Head Coordinator at INNERVE
+### 👩‍💻 Languages
 
-GEC Coordinator at IGDTUW
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql" />
+</p>
 
-## 🏆 Achievements:
-Mentor: #Desh Ke Mentor '22 - Guided and mentored girl students with useful tricks and tips to excel in their studies.
+### 📊 Data Analytics & BI
 
-Mentee: #GDSC-IGDTUW '22 - Active participant and learner in the Google Developer Student Club at IGDTUW.
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-First Position in the ADZAP competition and the Slogan Writing competition (9th Standard).
+`Excel` `Power BI` `Tableau` `Power Query` `SQL`
 
-Dance: Participated in the Inter-College Solo Western Dance Competition at IGDTUW '23, organized by Hypnotics (Dance Society).
+### 🤖 AI / Machine Learning
 
-## Hackathons:
+`Machine Learning` `Deep Learning` `Generative AI`
+`Predictive Analytics` `BERT` `NLP`
 
-Smart India Hackathon: Participated in the Internal round at IGDTUW '23.
+### 🛠️ Libraries & Frameworks
 
-Flipkart GRiD 6.0: Competed in the Software Development Track (Level 1) - E-commerce and Tech Quiz '24.
+`Pandas` `NumPy` `Matplotlib` `Scikit-learn`
+`TensorFlow` `PyTorch`
 
-Adobe GenSolve Hackathon: Engaged in innovative problem-solving and development '24.
+### 🔧 Tools
 
-Participated in GeeksforGeeks'IGDTUW Hackfest, developing (Aarogya) a healthcare website '24.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,googlecolab" />
+</p>
 
-## 🎓 Certifications:
+---
 
-Python and Machine Learning: Completed a 7-week summer internship on Python '23.
+## 🚀 What I Build
 
-Generative AI and Prompt Engineering: Completed a 6-week summer internship '24.
+```text
+📊 Data Analytics
+      ↓
+🧹 Data Cleaning & EDA
+      ↓
+📈 Visualization & Dashboards
+      ↓
+🤖 Machine Learning
+      ↓
+🧠 AI / Deep Learning
+      ↓
+💡 Actionable Insights
+```
 
-Data Science: Completed an 8-week-long summer internship on Python '25.
+I particularly enjoy projects involving:
 
-## 🔗 Let's Connect:
-linkedin: www.linkedin.com/in/mansi-kushwaha-140424261
+* 📊 Business & Workforce Analytics
+* 🤖 Machine Learning & Predictive Modeling
+* 🧠 AI / Deep Learning
+* ✨ Generative AI & Prompt Engineering
+* 📈 Interactive Dashboards
+* 🔎 Data-driven problem solving
 
-unstop: https://unstop.com/u/mansikus5847
+---
 
-<!--
+## 🏆 Highlights
 
-**Mansi232323/Mansi232323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 🚀 Achievement      | ⭐ Highlight                                                           |
+| ------------------- | --------------------------------------------------------------------- |
+| 🤖 Machine Learning | Built predictive solutions with up to **95% model accuracy**          |
+| 🔬 Research         | Contributed to **Skin Cancer Image Classification** research          |
+| 🏆 Hackathon        | **ET GenAI Hackathon Semi-Finalist & Top Performer**                  |
+| 📊 Analytics        | Hands-on experience with **Excel, SQL, Python & Power BI**            |
+| 🌐 Open Source      | Contributor — **Social Winter of Code 2023**                          |
+| 👩‍💼 Leadership    | GEC Coordinator • INNERVE Head Coordinator • IEEE Website Coordinator |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+
+**📊 Data Analyst — NoviTech R&D Pvt Ltd**
+`May 2026 – June 2026`
+
+Worked with **Excel, SQL, Python and Power BI** for data cleaning, EDA, dashboard development, KPI analysis and business insights.
+
+**📈 Data Science Intern — Summer Internship 2025**
+Worked on predictive modeling and visualization for an automotive market analysis case study.
+
+**✨ Generative AI & Prompt Engineering Intern — 2024**
+Explored Generative AI technologies and prompt engineering through hands-on projects.
+
+**🤖 Python & Machine Learning Intern — 2023**
+Worked on data preprocessing, feature engineering, visualization and supervised/unsupervised ML workflows.
+
+---
+
+## 📌 Featured Projects
+
+> 🚧 **Currently building and improving projects across Data Analytics, Machine Learning and AI.**
+
+### 📊 Data Analytics Dashboard
+
+Interactive dashboard focused on KPI tracking, filtering, visualization and actionable business insights.
+
+**Stack:** `Excel` `Power Query` `Pivot Tables` `Slicers` `VBA`
+
+### 🧠 Machine Learning Projects
+
+Predictive modeling projects involving data preprocessing, feature engineering, model training and evaluation.
+
+**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn`
+
+### 🤖 AI / Deep Learning
+
+Exploring intelligent solutions using deep learning, NLP and Generative AI.
+
+**Stack:** `TensorFlow` `PyTorch` `BERT` `Generative AI`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mansi232323&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi232323&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mansi232323&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```python
+learning = {
+    "Data": ["Advanced SQL", "Power BI", "Data Analytics"],
+    "AI": ["Machine Learning", "Deep Learning", "Generative AI"],
+    "Engineering": ["Python", "Git", "Open Source"],
+    "Goal": "Build AI-powered solutions that create real-world impact 🚀"
+}
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <b>I'm always open to learning, collaborating and building something impactful.</b>
+</p>
+
+<p align="center">
+  💼 LinkedIn • 🚀 Unstop • 💻 GitHub
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning curiosity into code, and data into decisions."</i> ✨
+</p>
+
+<p align="center">
+  ⭐ If you find my work interesting, consider starring a repository!
+</p>
