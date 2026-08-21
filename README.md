@@ -2,9 +2,9 @@
 
 # 💜 MANSI KUSHWAHA
 
-### `DATA ANALYST` • `DATA SCIENTIST` • `ML ENGINEER` • `AI ENGINEER`
+### DATA ANALYST • DATA SCIENTIST • ML ENGINEER • AI ENGINEER
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=9B5CFF&center=true&vCenter=true&width=800&lines=Turning+Data+into+Actionable+Insights+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Data+Analytics+%7C+Machine+Learning+%7C+Generative+AI;Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Impact+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=9B5CFF&center=true&vCenter=true&width=850&lines=Turning+Data+into+Actionable+Insights+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Data+Analytics+%7C+Machine+Learning+%7C+Generative+AI;Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Impact+%F0%9F%9A%80"/>
 
 <br>
 
@@ -28,45 +28,46 @@
 
 I'm **Mansi Kushwaha**, a B.Tech graduate in **Electronics & Communication Engineering (Artificial Intelligence)** from **IGDTUW**.
 
-I'm passionate about transforming **raw data into actionable insights** and building intelligent solutions for real-world problems.
+I'm passionate about transforming **raw data into meaningful insights** and building intelligent solutions for real-world problems.
 
-My interests span across **Data Analytics, Machine Learning, Artificial Intelligence, and Generative AI**, with a strong focus on practical problem-solving, continuous learning, and creating meaningful impact through technology.
+I enjoy working across **Data Analytics, Machine Learning, Artificial Intelligence, and Generative AI**, combining analytical thinking with practical problem-solving.
 
-### 🔎 My Core Areas
+### 🔎 What I Work With
 
-📊 Data Analytics
-🐍 Python & SQL
-📗 Excel & Power Query
-📈 Power BI & Tableau
-🤖 Machine Learning
-🧠 Deep Learning
-✨ Generative AI
-💬 Prompt Engineering
-🔍 Predictive Analytics
+📊 Data Analytics  
+🐍 Python & SQL  
+📗 Excel & Power Query  
+📈 Power BI & Tableau  
+🤖 Machine Learning  
+🧠 Deep Learning  
+✨ Generative AI  
+💬 Prompt Engineering  
+🔍 Predictive Analytics  
+🗣️ NLP & Computer Vision
 
 </td>
 
 <td width="40%" valign="top">
 
-## ⚡ MY WORKFLOW
+## ⚡ MY APPROACH
 
 ```text
-📥 COLLECT
-    ↓
-🧹 CLEAN
-    ↓
-🔄 TRANSFORM
-    ↓
-🔍 ANALYZE
-    ↓
-📊 VISUALIZE
-    ↓
-🤖 MODEL
-    ↓
-💡 INSIGHT
-    ↓
-🚀 IMPACT
-```
+DATA
+  ↓
+CLEAN
+  ↓
+TRANSFORM
+  ↓
+ANALYZE
+  ↓
+VISUALIZE
+  ↓
+MODEL
+  ↓
+INSIGHT
+  ↓
+IMPACT
+````
 
 ### 💭 Philosophy
 
@@ -81,223 +82,232 @@ My interests span across **Data Analytics, Machine Learning, Artificial Intellig
 
 # 🎯 WHAT I DO
 
-I work at the intersection of **Data Analytics, Artificial Intelligence, Machine Learning, and Generative AI**, focusing on transforming data into meaningful insights and practical intelligent solutions.
+### 📊 DATA ANALYTICS
 
-### 📊 DATA ANALYTICS & BUSINESS INTELLIGENCE
+I transform raw datasets into structured, understandable, and decision-ready information.
 
-I work with **Excel, Power Query, SQL, Python, Power BI, Tableau, PivotTables, Power Pivot, and DAX** to clean, transform, analyze, and visualize data.
+**Focus Areas**
 
-My workflow includes **data cleaning, transformation, exploratory analysis, KPI development, dashboard creation, reporting, and business insight generation**.
+* Data Cleaning
+* Data Transformation
+* Exploratory Data Analysis
+* Business Intelligence
+* KPI Development
+* Dashboard Development
+* Data Visualization
+* Reporting
+* Data Storytelling
 
-I enjoy finding patterns in data and presenting complex information in a way that is simple, visual, and useful for decision-making.
+**Tools**
 
-### 🤖 MACHINE LEARNING & ARTIFICIAL INTELLIGENCE
-
-I explore **Machine Learning, Deep Learning, Predictive Analytics, NLP, Computer Vision, and model evaluation** to solve real-world problems using data-driven approaches.
-
-My approach covers the complete lifecycle:
-
-```text
-Problem Definition
-       ↓
-Data Collection
-       ↓
-Data Cleaning
-       ↓
-EDA
-       ↓
-Feature Engineering
-       ↓
-Model Development
-       ↓
-Evaluation
-       ↓
-Insights
-```
-
-### ✨ GENERATIVE AI
-
-I'm interested in **Generative AI, Prompt Engineering, Large Language Models, NLP, and AI-powered applications**.
-
-I explore how modern AI technologies can be used for **automation, intelligent assistance, productivity, analytics, content generation, and real-world problem solving**.
-
-### 📈 DATA STORYTELLING
-
-I believe data analysis is not only about numbers.
-
-The real value comes from communicating insights clearly through **dashboards, visualizations, reports, and data-driven storytelling**.
-
-My goal is to answer:
-
-> **What happened? → Why did it happen? → What can we learn? → What should we do next?**
+`Excel` `Power Query` `Power BI` `SQL` `Python` `Tableau` `DAX`
 
 ---
 
-# 🧠 MY DATA-TO-IMPACT APPROACH
+### 🤖 MACHINE LEARNING
 
-<div align="center">
+I use machine-learning techniques to identify patterns, build predictive models, and solve practical problems.
 
 ```text
-📥 RAW DATA
-      ↓
-🧹 CLEAN
-      ↓
-🔄 TRANSFORM
-      ↓
-🔍 EXPLORE
-      ↓
-📊 VISUALIZE
-      ↓
-🧠 MODEL
-      ↓
-💡 INSIGHT
-      ↓
-🎯 DECISION
-      ↓
-🚀 IMPACT
+Problem
+   ↓
+Data
+   ↓
+Cleaning
+   ↓
+EDA
+   ↓
+Feature Engineering
+   ↓
+Model
+   ↓
+Evaluation
+   ↓
+Prediction
+   ↓
+Insight
 ```
 
-</div>
+---
+
+### 🧠 ARTIFICIAL INTELLIGENCE
+
+My AI interests include:
+
+`Machine Learning`
+`Deep Learning`
+`NLP`
+`Computer Vision`
+`Predictive Analytics`
+`Intelligent Automation`
+
+---
+
+### ✨ GENERATIVE AI
+
+I'm exploring **Generative AI, LLMs, Transformers, Prompt Engineering, NLP, and AI-powered applications**.
+
+I'm particularly interested in using AI for:
+
+* Automation
+* Data Analysis
+* Intelligent Assistants
+* Knowledge Extraction
+* Productivity
+* Business Applications
 
 ---
 
 # 💻 TECH STACK
 
-### 📊 DATA ANALYTICS & BUSINESS INTELLIGENCE
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite&perline=4"/>
-
-</p>
+## 📊 DATA & BUSINESS INTELLIGENCE
 
 <div align="center">
 
-`Python` • `SQL` • `MySQL` • `PostgreSQL` • `SQLite`
-`Excel` • `Power Query` • `Power Pivot` • `PivotTables` • `Power BI` • `Tableau` • `DAX`
+`Microsoft Excel` • `Power Query` • `Power Pivot` • `PivotTables`
+`Power BI` • `Tableau` • `DAX` • `SQL`
+`MySQL` • `PostgreSQL` • `SQLite`
 
 </div>
 
----
-
-### 🤖 AI & MACHINE LEARNING
+<br>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3"/>
 </p>
+
+---
+
+## 🐍 PROGRAMMING
+
+<div align="center">
+
+`Python` • `C++` • `JavaScript` • `HTML` • `CSS`
+
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js&perline=5"/>
+</p>
+
+---
+
+## 🤖 AI & MACHINE LEARNING
 
 <div align="center">
 
 `Machine Learning` • `Deep Learning` • `Scikit-Learn`
-`TensorFlow` • `PyTorch` • `NLP` • `Computer Vision` • `Predictive Analytics`
+`TensorFlow` • `PyTorch` • `NLP` • `Computer Vision`
+`Predictive Analytics` • `Feature Engineering`
 
 </div>
 
----
-
-### 🧠 GENERATIVE AI & NLP
+<br>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=huggingface&perline=4"/>
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4"/>
 </p>
-
-<div align="center">
-
-`Generative AI` • `Hugging Face` • `Transformers` • `BERT`
-`NLP` • `Prompt Engineering` • `LLMs`
-
-</div>
 
 ---
 
-### 💻 PROGRAMMING & DEVELOPMENT
+## ✨ GENERATIVE AI
+
+<div align="center">
+
+`Generative AI` • `LLMs` • `Transformers` • `BERT`
+`Hugging Face` • `Prompt Engineering` • `NLP`
+
+</div>
+
+<br>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,flask,fastapi&perline=7"/>
-
+<img src="https://skillicons.dev/icons?i=huggingface&perline=3"/>
 </p>
-
-<div align="center">
-
-`Python` • `C++` • `HTML` • `CSS` • `JavaScript` • `Flask` • `FastAPI`
-
-</div>
 
 ---
 
-### 🧰 TOOLS & DEVELOPMENT ENVIRONMENT
+## 🧰 TOOLS & PLATFORMS
+
+<div align="center">
+
+`Git` • `GitHub` • `Jupyter Notebook` • `VS Code`
+`Google Colab` • `Google Cloud` • `Anaconda`
+
+</div>
+
+<br>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,anaconda,gcp&perline=6"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,colab,gcp,anaconda&perline=7"/>
 </p>
 
+---
+
+## 📚 DATA SCIENCE LIBRARIES
+
 <div align="center">
 
-`Git` • `GitHub` • `Jupyter Notebook` • `VS Code` • `Anaconda`
-`Google Cloud` • `Google Colab`
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
+`SciPy` • `Scikit-Learn` • `TensorFlow` • `PyTorch` • `OpenCV`
 
 </div>
 
 ---
 
-### 📚 DATA SCIENCE LIBRARIES
+## 🛠️ COMPLETE TOOLKIT
 
 <div align="center">
 
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `SciPy` • `Scikit-Learn`
-
-</div>
-
----
-
-### 🛠️ COMPLETE TOOLKIT
-
-<div align="center">
-
-| 📊 DATA & BI |      🤖 AI / ML      | 💻 DEVELOPMENT |   🔧 TOOLS   |
+| 📊 DATA & BI |      🤖 AI / ML      | 💻 DEVELOPMENT |   🧰 TOOLS   |
 | :----------: | :------------------: | :------------: | :----------: |
 |     Excel    |   Machine Learning   |     Python     |      Git     |
 |  Power Query |     Deep Learning    |       C++      |    GitHub    |
 |   Power BI   |      TensorFlow      |      HTML      |    Jupyter   |
 |    Tableau   |        PyTorch       |       CSS      |    VS Code   |
-|      SQL     |          NLP         |   JavaScript   |   Anaconda   |
-|      DAX     |    Computer Vision   |      Flask     | Google Cloud |
-|  Power Pivot |     Generative AI    |     FastAPI    | Google Colab |
-|    Pandas    |         BERT         |                |              |
-|     NumPy    |     Hugging Face     |                |              |
-|  Matplotlib  | Predictive Analytics |                |              |
-|    Seaborn   |  Prompt Engineering  |                |              |
+|      SQL     |          NLP         |   JavaScript   | Google Colab |
+|     MySQL    |    Computer Vision   |                | Google Cloud |
+|  PostgreSQL  |     Generative AI    |                |   Anaconda   |
+|      DAX     |         BERT         |                |              |
+|  Power Pivot |     Hugging Face     |                |              |
+|    Pandas    | Predictive Analytics |                |              |
+|     NumPy    |  Prompt Engineering  |                |              |
+|  Matplotlib  |     Transformers     |                |              |
+|    Seaborn   |         LLMs         |                |              |
 
 </div>
 
 ---
 
-# 💼 EXPERIENCE JOURNEY
+# 💼 EXPERIENCE
 
 ```text
 2026  🟢  DATA ANALYST
           NoviTech R&D Pvt Ltd
           Excel • SQL • Python • Power BI
+
           │
+
 2025  🟣  DATA SCIENCE INTERN
           IIT Madras Pravartak / Internshala
           Data Science • Predictive Analytics
+
           │
+
 2024  🔵  GENERATIVE AI INTERN
           Sansoftech Services
           GenAI • Prompt Engineering
+
           │
+
 2023  🟢  ML INTERN
           AI Club IGDTUW
           Python • ML • EDA
+
           │
+
 2023  🟣  OPEN SOURCE CONTRIBUTOR
           Social Winter of Code
           Git • GitHub • Collaboration
@@ -315,27 +325,45 @@ My goal is to answer:
 
 ⬇️
 
-### 🧹 CLEAN & TRANSFORM
+### 🧹 CLEAN
 
-**Power Query • Python • Pandas**
-
-⬇️
-
-### 🔍 EXPLORE & VISUALIZE
-
-**EDA • Excel • Power BI • Tableau**
+**Excel • Power Query • Python**
 
 ⬇️
 
-### 🧠 MODEL & ANALYZE
+### 🔄 TRANSFORM
+
+**Pandas • SQL • Power Query**
+
+⬇️
+
+### 🔍 EXPLORE
+
+**EDA • Statistics • Visualization**
+
+⬇️
+
+### 📊 VISUALIZE
+
+**Power BI • Tableau • Excel**
+
+⬇️
+
+### 🤖 MODEL
 
 **ML • DL • AI**
 
 ⬇️
 
-### 🎯 INSIGHTS & IMPACT
+### 💡 INSIGHT
 
 **Business Decisions**
+
+⬇️
+
+### 🚀 IMPACT
+
+**Real-World Solutions**
 
 </div>
 
@@ -428,69 +456,6 @@ Recognition
 
 ---
 
-# 📊 GITHUB ACTIVITY
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi232323&bg_color=0D1117&color=9B5CFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="96%"/>
-
-</p>
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### 🔥 CONTRIBUTION STREAK
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi232323&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</td>
-
-<td width="50%" align="center">
-
-### 📊 GITHUB STATS
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Mansi232323&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B5CFF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=1800"
-  width="100%"
-  alt="Mansi Kushwaha GitHub Stats"
-/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-
-<picture>
-
-<source
- media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"
-/>
-
-<img
- alt="GitHub Contribution Snake"
- src="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"
- width="95%"
-/>
-
-</picture>
-
-</p>
-
----
-
 # 📈 SKILL MATRIX
 
 <table>
@@ -536,23 +501,19 @@ Predictive AI    ███████████████░░░░░
 <div align="center">
 
 ```text
-📊 ADVANCED
-DATA ANALYTICS
-      ↓
-🧠 ML & DL
-DEEP DIVE
-      ↓
-🤖 BUILD
-AI PRODUCTS
-      ↓
-🌐 OPEN
-SOURCE
-      ↓
-🔬 RESEARCH &
-INNOVATION
-      ↓
-🎯 MAKE
-IMPACT
+📊 ADVANCED DATA ANALYTICS
+              ↓
+🧠 MACHINE LEARNING
+              ↓
+🤖 AI PRODUCTS
+              ↓
+✨ GENERATIVE AI
+              ↓
+🌐 OPEN SOURCE
+              ↓
+🔬 RESEARCH & INNOVATION
+              ↓
+🎯 REAL-WORLD IMPACT
 ```
 
 </div>
@@ -564,15 +525,59 @@ IMPACT
 ```diff
 + Data-Driven Thinking
 + Analytical Problem Solving
++ Python & SQL
++ Business Intelligence
 + Machine Learning
 + Generative AI
 + Data Visualization
-+ Business Intelligence
 + Dashboard Development
 + Power Query
 + Technical Leadership
 + Open Source Collaboration
 ```
+
+---
+
+# 📊 GITHUB
+
+<div align="center">
+
+### 💜 CODE • COMMIT • CONTRIBUTE
+
+<br>
+
+<a href="https://github.com/Mansi232323">
+
+<img src="https://img.shields.io/badge/GITHUB-Mansi232323-9B5CFF?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+### 🐍 CONTRIBUTION SNAKE
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake-dark.svg"/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"/>
+
+<img
+src="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"
+width="90%"
+alt="GitHub Contribution Snake"/>
+
+</picture>
+
+<br><br>
+
+> **Build → Commit → Learn → Repeat 🚀**
+
+</div>
 
 ---
 
@@ -593,7 +598,7 @@ IMPACT
 </a>
 
 <a href="https://github.com/Mansi232323">
-<img src="https://img.shields.io/badge/GITHUB-Follow-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Follow-6E40C6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -608,18 +613,13 @@ IMPACT
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Mansi232323&label=PROFILE%20VIEWS&color=9B5CFF&style=for-the-badge"/>
+<img
+src="https://komarev.com/ghpvc/?username=Mansi232323&label=PROFILE%20VIEWS&color=9B5CFF&style=for-the-badge"
+alt="Profile Views"/>
 
 <br><br>
 
 ⭐ **If you find my work interesting, consider starring a repository!**
 
 </div>
-
----
-
-<p align="center">
-
-⬆️ **BACK TO TOP**
-
-</p>
+```
