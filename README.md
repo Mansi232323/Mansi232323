@@ -1,436 +1,308 @@
 <div align="center">
 
-<a href="#-navigation">
-<img src="./assets/hero-3d.svg" width="100%" alt="Mansi Kushwaha 3D GitHub Banner"/>
-</a>
+<!-- ===================== 3D HERO ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Data+Scientist+%7C+ML+Engineer;Turning+Data+into+Insights+%F0%9F%93%8A;Building+Intelligent+Solutions+%F0%9F%A4%96;Exploring+Generative+AI+%26+Prompt+Engineering+%E2%9C%A8;Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Impact+%F0%9F%9A%80"/>
+<img src="./assets/mansi-3d-profile.png" alt="Mansi Kushwaha 3D AI Developer Profile" width="100%"/>
 
-<br>
+<br/>
 
-<a href="https://www.linkedin.com/in/mansi-kushwaha-140424261"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://unstop.com/u/mansikus5847"><img src="https://img.shields.io/badge/Unstop-Profile-FF6B35?style=for-the-badge"/></a>
-<a href="https://github.com/Mansi232323"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT%20ME-7C3AED?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
+<a href="#-skills"><img src="https://img.shields.io/badge/SKILLS-2563EB?style=for-the-badge&logo=hackthebox&logoColor=white"/></a>
+<a href="#-experience"><img src="https://img.shields.io/badge/EXPERIENCE-0891B2?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
+<a href="#-hackathons"><img src="https://img.shields.io/badge/HACKATHONS-DB2777?style=for-the-badge&logo=trophy&logoColor=white"/></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/CONNECT-16A34A?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Mansi+Kushwaha+%F0%9F%91%8B;AI%2FML+%7C+Python+%7C+C%2B%2B+%7C+Generative+AI;Building%2C+Learning+%26+Exploring+Technology+%F0%9F%9A%80"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-### 🧊 3D PROFILE MODE
-
-`DATA` ◈ `AI` ◈ `ML` ◈ `GENAI` ◈ `BI`
-
-</div>
-
-> **Important:** GitHub README files cannot run arbitrary JavaScript or CSS. This version therefore uses **real SVG 3D-style assets** (extrusion, perspective, gradients, glow, depth), animated SVG services, collapsible `<details>` panels, anchors, live GitHub widgets and interactive navigation. The local SVG assets in `assets/` are part of this README pack.
-
----
-
-<a id="-navigation"></a>
-# 🧭 NAVIGATION
-
-| 🧬 Identity | 🛠️ Skills | 🚀 Work | 🏆 Proof |
-|---|---|---|---|
-| [About](#-about-me) | [Tech Stack](#-tech-stack) | [Projects](#-project-lab) | [Achievements](#-achievements) |
-| [Education](#-education) | [Experience](#-experience) | [Hackathons](#-hackathons) | [Certifications](#-certifications) |
-| [Leadership](#-leadership) | [Community](#-community--mentoring) | [GitHub Stats](#-github-command-center) | [Connect](#-lets-connect) |
-
----
-
-<div align="center">
-<img src="./assets/about-3d.svg" width="100%" alt="3D About section"/>
-</div>
-
-# 👋 ABOUT ME
+# 🧭 Navigation
 
 <details open>
-<summary><b>✨ Click to expand</b></summary>
+<summary><b>Click to explore my profile</b></summary>
 
-Hello! I'm **Mansi Kushwaha**, a B.Tech graduate in **Electronics & Communication Engineering (Artificial Intelligence)** from **IGDTUW**.
+- [👋 About Me](#-about-me)
+- [💻 Skills](#-skills)
+- [🌟 Experience](#-experience)
+- [🚀 Leadership Roles](#-leadership-roles)
+- [🏆 Achievements](#-achievements)
+- [💡 Hackathons](#-hackathons)
+- [🎓 Certifications](#-certifications)
+- [🎓 Education](#-education)
+- [🤝 Mentoring & Community](#-mentoring--community)
+- [💃 Beyond Technology](#-beyond-technology)
+- [📊 GitHub Stats](#-github-stats)
+- [🎯 Currently Learning](#-currently-learning)
+- [🗺️ Roadmap](#️-roadmap)
+- [🔗 Let's Connect](#-lets-connect)
 
-I am passionate about transforming data into actionable insights and building AI-powered solutions for real-world challenges.
+</details>
 
-My experience spans **Data Analytics, Data Science, Machine Learning, Deep Learning, Generative AI, Business Intelligence and Predictive Analytics**.
+> **3D note:** GitHub READMEs cannot run arbitrary JavaScript/WebGL. This version therefore uses a 3D hero graphic, animated SVGs, collapsible panels, badges, anchors and live GitHub widgets to create the strongest GitHub-safe interactive effect.
+
+---
+
+# 👋 About Me
+
+<details open>
+<summary><b>✨ Welcome to My World: Mansi Kushwaha @Mansi232323</b></summary>
+
+<br/>
+
+Hello! I’m **Mansi Kushwaha**, currently a **GEC Coordinator at IGDTUW**, diving deep into the fascinating world of **Electrical and Communication Engineering with a specialization in Artificial Intelligence**.
+
+My academic journey is more than just grades; it's about exploring the limitless possibilities in technology.
 
 </details>
 
 ---
 
-<div align="center">
-<img src="./assets/skills-3d.svg" width="100%" alt="3D Tech Stack section"/>
-</div>
-
-# 💻 TECH STACK
+# 💻 Skills
 
 <div align="center">
-<img src="./assets/python-3d.svg" width="48%" alt="3D Python card"/>
-<img src="./assets/ml-3d.svg" width="48%" alt="3D Machine Learning card"/>
-<br>
-<img src="./assets/data-3d.svg" width="48%" alt="3D Data Analytics card"/>
-<img src="./assets/genai-3d.svg" width="48%" alt="3D Generative AI card"/>
+
+### 🧠 Passionate About
+
+| Area | Focus |
+|---|---|
+| 🤖 AI/ML | Artificial Intelligence & Machine Learning |
+| ✨ Generative AI | Generative AI & Prompt Engineering (basic) |
+| 🐍 Programming | Python Programming |
+| ⚙️ Programming | C++ Programming |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql,git,github,vscode,jupyter"/>
+
 </div>
 
-<details>
-<summary>🐍 Programming</summary>
+---
 
-`Python` `C++` `HTML` `CSS` `JavaScript` `SQL`
+# 🌟 Experience
 
-</details>
+<details open>
+<summary>🤖 <b>Summer Intern '23 — Python and Machine Learning (AI/ML)</b></summary>
 
-<details>
-<summary>📊 Analytics & Business Intelligence</summary>
-
-`Excel` `Power BI` `Tableau` `Power Query` `SQL`
+Completed a summer internship focused on **Python and Machine Learning (AI/ML)**.
 
 </details>
 
 <details>
-<summary>🤖 AI / ML</summary>
+<summary>✨ <b>Summer Intern '24 — Generative AI and Prompt Engineering</b></summary>
 
-`Machine Learning` `Deep Learning` `Generative AI` `Predictive Analytics` `BERT`
-
-</details>
-
-<details>
-<summary>📚 Libraries & Frameworks</summary>
-
-`Pandas` `NumPy` `Matplotlib` `Scikit-learn` `TensorFlow` `PyTorch`
+Completed a summer internship focused on **Generative AI and Prompt Engineering**.
 
 </details>
 
 <details>
-<summary>🛠️ Tools</summary>
+<summary>📊 <b>Summer Intern '25 — Data Science</b></summary>
 
-`Git` `GitHub` `Jupyter Notebook` `Google Colab` `VS Code`
+Completed a summer internship focused on **Data Science**.
 
 </details>
 
 ---
 
-# 🧠 MY 3D PROBLEM-SOLVING PIPELINE
+# 🚀 Leadership Roles
+
+<div align="center">
+
+| 🎯 Role | 🏛️ Organization |
+|---|---|
+| 👑 Head Coordinator | INNERVE |
+| 🧠 GEC Coordinator | IGDTUW |
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<details>
+<summary>👩‍🏫 <b>Mentor — #Desh Ke Mentor '22</b></summary>
+
+Guided and mentored girl students with useful tricks and tips to excel in their studies.
+
+</details>
+
+<details>
+<summary>🌱 <b>Mentee — #GDSC-IGDTUW '22</b></summary>
+
+Active participant and learner in the Google Developer Student Club at IGDTUW.
+
+</details>
+
+<details>
+<summary>🥇 <b>First Position</b></summary>
+
+First Position in the **ADZAP competition** and the **Slogan Writing competition** in 9th Standard.
+
+</details>
+
+<details>
+<summary>💃 <b>Dance — IGDTUW '23</b></summary>
+
+Participated in the **Inter-College Solo Western Dance Competition at IGDTUW '23**, organized by Hypnotics (Dance Society).
+
+</details>
+
+---
+
+# 💡 Hackathons
+
+<details>
+<summary>🇮🇳 <b>Smart India Hackathon — 2023</b></summary>
+
+Participated in the **Internal round at IGDTUW '23**.
+
+</details>
+
+<details>
+<summary>🛒 <b>Flipkart GRiD 6.0 — 2024</b></summary>
+
+Competed in the **Software Development Track (Level 1)** — E-commerce and Tech Quiz '24.
+
+</details>
+
+<details>
+<summary>✨ <b>Adobe GenSolve Hackathon — 2024</b></summary>
+
+Engaged in innovative problem-solving and development.
+
+</details>
+
+<details>
+<summary>🩺 <b>GeeksforGeeks IGDTUW Hackfest — 2024</b></summary>
+
+Developed **Aarogya**, a healthcare website.
+
+</details>
+
+---
+
+# 🎓 Certifications
+
+| 📜 Certification | ⏱️ Duration / Year |
+|---|---|
+| 🐍 Python and Machine Learning | 7-week summer internship — 2023 |
+| ✨ Generative AI and Prompt Engineering | 6-week summer internship — 2024 |
+| 📊 Data Science | 8-week summer internship — 2025 |
+
+---
+
+# 🎓 Education
+
+<details>
+<summary><b>🎓 IGDTUW</b></summary>
+
+Electrical and Communication Engineering with a specialization in **Artificial Intelligence**.
+
+</details>
+
+---
+
+# 🤝 Mentoring & Community
+
+<div align="center">
 
 ```text
-        ╔══════════════╗
-        ║ REAL PROBLEM ║
-        ╚══════╤═══════╝
-               ▼
-        ╔══════════════╗
-        ║     DATA     ║
-        ╚══════╤═══════╝
-               ▼
-      ╔══════════════════╗
-      ║ CLEANING + EDA   ║
-      ╚════════╤═════════╝
-               ▼
-      ╔══════════════════╗
-      ║ FIND THE PATTERN ║
-      ╚════════╤═════════╝
-               ▼
-      ╔══════════════════╗
-      ║ MODEL / BI       ║
-      ╚════════╤═════════╝
-               ▼
-      ╔══════════════════╗
-      ║ INSIGHT + IMPACT ║
-      ╚══════════════════╝
+        KNOWLEDGE
+            ↓
+        LEARNING
+            ↓
+        SHARING
+            ↓
+        MENTORING
+            ↓
+        IMPACT
 ```
 
----
-
-<div align="center">
-<img src="./assets/projects-3d.svg" width="100%" alt="3D Project Lab section"/>
 </div>
 
-# 🚀 PROJECT LAB
+### 👩‍🏫 #Desh Ke Mentor '22
+Mentored girl students and shared useful academic tricks and tips.
 
-<details open>
-<summary>🩺 <b>Healthcare / Medical Analytics Dashboard</b></summary>
-
-Interactive Excel dashboard using `Pivot Tables` • `Slicers` • `Power Query` • `VBA` • `KPI Cards` • `Data Visualization`.
-
-</details>
-
-<details>
-<summary>🔐 <b>Phishing URL Detection</b></summary>
-
-Large-scale phishing URL detection research using `Python` • `Machine Learning` • `Deep Learning` • `NLP` • `Transformers`.
-
-</details>
-
-<details>
-<summary>📊 <b>Workforce Analytics</b></summary>
-
-Employee performance and productivity analytics using `Excel` • `Power BI` • `SQL`.
-
-</details>
-
-<details>
-<summary>🤖 <b>Machine Learning Projects</b></summary>
-
-Predictive and classification projects involving preprocessing, EDA, feature engineering, model development and evaluation.
-
-</details>
-
-<details>
-<summary>✨ <b>Generative AI Applications</b></summary>
-
-Hands-on Generative AI and Prompt Engineering experimentation.
-
-</details>
+### 🌱 #GDSC-IGDTUW '22
+Active participant and learner in the Google Developer Student Club at IGDTUW.
 
 ---
 
-# 💼 EXPERIENCE
+# 💃 Beyond Technology
 
-<details open>
-<summary>📈 <b>Data Analyst — NoviTech R&D Pvt Ltd</b> | May 2026 – June 2026</summary>
+I also enjoy exploring creativity beyond technical work, including **dance** and participation in college cultural activities.
 
-Worked with **Excel, SQL, Python and Power BI** for data cleaning, EDA, interactive dashboards, SQL queries, KPI analysis and business insights.
-
-</details>
-
-<details>
-<summary>📊 <b>Data Science — Summer Internship</b> | June 2025 – August 2025</summary>
-
-Data-science case study for ABG Motors involving automotive market analysis, predictive modeling and visualization.
-
-</details>
-
-<details>
-<summary>✨ <b>Generative AI & Prompt Engineering — Summer Intern</b> | July 2024 – August 2024</summary>
-
-Hands-on Generative AI and Prompt Engineering internship.
-
-</details>
-
-<details>
-<summary>🤖 <b>Python & Machine Learning — Summer Intern</b> | June 2023 – July 2023</summary>
-
-Python-based ML projects involving preprocessing, feature engineering, model development, EDA and visualization.
-
-</details>
+🏆 **First Position:** ADZAP & Slogan Writing — 9th Standard  
+💃 **Inter-College Solo Western Dance Competition:** IGDTUW '23 / Hypnotics
 
 ---
 
-# 🎓 EDUCATION
-
-**IGDTUW** — B.Tech, Electronics & Communication Engineering, Artificial Intelligence focus  
-`January 2022 – May 2026`
-
-**North Ex Public School** — Science, Non-Medical / PCM  
-`2021 – 2022`
-
-**North Ex Public School** — Class 10  
-`2019 – 2020`
-
----
-
-<div align="center">
-<img src="./assets/achievements-3d.svg" width="100%" alt="3D Achievements section"/>
-</div>
-
-# 🏆 ACHIEVEMENTS
-
-- 🥇 Built ML and predictive analytics solutions with up to **95% model accuracy**
-- 🔬 Contributed to **Skin Cancer Image Classification** research accepted at an international conference
-- 🏆 **ET GenAI Hackathon — Semi-Finalist & Top Performer**
-- 🌐 **Social Winter of Code 2023 — Contributor**
-- 👩‍💼 Leadership through technical coordination, mentoring and student engagement
-
----
-
-# 🏅 HACKATHONS
-
-<details>
-<summary>🇮🇳 Smart India Hackathon — 2023</summary>
-Participated in the internal round at IGDTUW.
-</details>
-
-<details>
-<summary>🛒 Flipkart GRiD 6.0 — 2024</summary>
-Competed in the Software Development Track (Level 1).
-</details>
-
-<details>
-<summary>✨ Adobe GenSolve Hackathon — 2024</summary>
-Participated in innovative problem-solving and development.
-</details>
-
-<details>
-<summary>🩺 GeeksforGeeks IGDTUW Hackfest — 2024</summary>
-Worked on **Aarogya**, a healthcare website.
-</details>
-
----
-
-# 📜 CERTIFICATIONS
-
-<details>
-<summary>🐍 Python & Machine Learning — 2023</summary>
-7-week summer internship.
-</details>
-
-<details>
-<summary>✨ Generative AI & Prompt Engineering — 2024</summary>
-6-week summer internship.
-</details>
-
-<details>
-<summary>📊 Data Science — 2025</summary>
-8-week summer internship.
-</details>
-
-<details>
-<summary>🏆 IIT Kanpur — Forest & Their Management</summary>
-100% consolidated score with **Elite + Topper 1%** recognition among 14,576 certified candidates.
-</details>
-
----
-
-# 👩‍💼 LEADERSHIP
-
-<details>
-<summary>🎯 GEC Coordinator — IGDTUW</summary>
-Coordinated academic processes and faculty-student communication.
-</details>
-
-<details>
-<summary>🔥 Head Coordinator — INNERVE</summary>
-Led the ECE Tech Team, technical planning, event execution and volunteers.
-</details>
-
-<details>
-<summary>🌐 Website Coordinator — IEEE IGDTUW</summary>
-Managed website content, announcements, resources and usability.
-</details>
-
----
-
-# 🌐 COMMUNITY & MENTORING
-
-<details>
-<summary>👩‍🏫 Desh Ke Mentor — Mentor</summary>
-Mentored school students in academics, career awareness and personal development.
-</details>
-
-<details>
-<summary>💻 GDSC-IGDTUW — Mentee</summary>
-Participated in technical workshops, hands-on sessions and collaborative projects.
-</details>
-
-<details>
-<summary>☁️ Google Cloud Skills Boost — Arcade Facilitator Program</summary>
-Completed hands-on cloud labs and practical challenges.
-</details>
-
-<details>
-<summary>🌍 Social Winter of Code — Contributor</summary>
-Developed features, fixed bugs, improved documentation and collaborated using Git/GitHub.
-</details>
-
----
-
-
----
-
-# 🪪 PERSONAL • BEYOND THE CODE
+# 🧊 My 3D Developer Identity
 
 <div align="center">
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td align="center" width="33%">
 
-### ☕ VIBE
-**Curious**  
-**Creative**  
-**Always Learning**
+### 📊 DATA
+
+**Explore**  
+**Analyze**  
+**Understand**
 
 </td>
-<td width="25%" align="center">
+<td align="center" width="33%">
 
-### 🧠 MINDSET
+### 🤖 AI
+
 **Learn**  
 **Build**  
 **Experiment**
 
 </td>
-<td width="25%" align="center">
+<td align="center" width="33%">
 
-### 🎯 FOCUS
-**Data**  
-**AI**  
-**Impact**
+### 🚀 IMPACT
 
-</td>
-<td width="25%" align="center">
-
-### 💜 ENERGY
-**Explore**  
 **Create**  
-**Inspire**
+**Innovate**  
+**Grow**
 
 </td>
 </tr>
 </table>
 
-<br>
-
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                     MANSI'S DIGITAL DNA                     │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│   🔍 CURIOUSITY        →  I like understanding how things work│
-│   🧩 PROBLEM SOLVING   →  I turn messy problems into systems │
-│   🎨 CREATIVITY        →  I enjoy making ideas visually clear│
-│   🤖 TECHNOLOGY        →  AI + Data are my playground        │
-│   🚀 GROWTH            →  Every project is a new experiment  │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+                     ╔══════════════════╗
+                     ║  MANSI KUSHWAHA  ║
+                     ╚════════╦═════════╝
+                              ║
+                ┌─────────────┼─────────────┐
+                ▼             ▼             ▼
+             📊 DATA       🤖 AI        💡 IDEAS
+                │             │             │
+                └─────────────┼─────────────┘
+                              ▼
+                         🚀 INNOVATION
 ```
-
-### 🌙 A little about me
-
-I'm someone who enjoys sitting at the intersection of **technology, creativity and problem-solving**.
-
-I like taking something complicated, breaking it into smaller pieces, understanding the pattern and then turning it into something useful — whether that's a **dashboard, model, automation, research idea or AI application**.
-
-When I'm not working with data or AI, I enjoy exploring creative activities, learning new things and trying to make whatever I build look as good as it works.
-
-### ⚡ My Working Style
-
-`CURIOUS` → `ANALYZE` → `CREATE` → `TEST` → `ITERATE` → `IMPROVE`
 
 </div>
 
-# 💃 BEYOND TECHNOLOGY
-
-<details>
-<summary>💃 Dance</summary>
-Participated in the Inter-College Solo Western Dance Competition at IGDTUW '23, organized by Hypnotics.
-</details>
-
-<details>
-<summary>✍️ Creative Achievements</summary>
-First Position in ADZAP and Slogan Writing competitions in 9th Standard.
-</details>
-
 ---
 
-# 📊 GITHUB COMMAND CENTER
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mansi232323&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mansi232323&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi232323&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi232323&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br><br>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Mansi232323&theme=tokyonight&hide_border=true"/>
 
@@ -438,111 +310,86 @@ First Position in ADZAP and Slogan Writing competitions in 9th Standard.
 
 ---
 
-# 📈 CONTRIBUTION ACTIVITY
+# 🐍 Contribution Animation
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi232323&theme=tokyo-night&hide_border=true&area=true&custom_title=Mansi%27s%20Contribution%20Analytics"/>
+<img src="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🎯 Currently Learning
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"/>
+`AI/ML` → `Generative AI` → `Prompt Engineering` → `Python` → `C++`
 
 </div>
 
 ---
 
-# 🎯 2026 ROADMAP
+# 🗺️ Roadmap
+
+<div align="center">
 
 ```text
-              ┌────────────────────┐
-              │     2026 MISSION   │
-              └─────────┬──────────┘
-                        ▼
-        ┌───────────────┼───────────────┐
-        ▼               ▼               ▼
-      📊 DATA          🤖 ML          ✨ GENAI
-        │               │               │
-        ▼               ▼               ▼
-    Analytics        Deep Learning     LLM Apps
-    SQL              NLP               Prompting
-    Power BI         Research          AI Workflows
-        └───────────────┼───────────────┘
-                        ▼
-                 🚀 REAL IMPACT
+                  2026
+                    │
+          ┌─────────┼─────────┐
+          ▼         ▼         ▼
+       🤖 AI/ML   ✨ GenAI   🐍 Python
+          │         │         │
+          └─────────┼─────────┘
+                    ▼
+                🚀 BUILD
+                    │
+                    ▼
+                💡 INNOVATE
+                    │
+                    ▼
+                🌎 IMPACT
 ```
 
-- [ ] Production-ready AI/ML projects
-- [ ] Advanced Power BI dashboards
-- [ ] Stronger SQL & Data Analytics
-- [ ] Deep Learning & NLP
-- [ ] Practical Generative AI applications
-- [ ] Open Source contributions
-- [ ] AI/ML research
-- [ ] End-to-end portfolio projects
+</div>
 
 ---
 
-# 🧠 DEVELOPER PHILOSOPHY
+# 🧠 Philosophy
 
 <div align="center">
 
-### `CURIOSITY → LEARNING → BUILDING → EXPERIMENTING → IMPROVING → IMPACT`
+## **LEARN → BUILD → EXPERIMENT → INNOVATE**
 
-<br>
+<br/>
 
-# **DATA → INSIGHT → INTELLIGENCE → IMPACT**
-
-> *"Don't just build technology. Build something that matters."*
+> **“My academic journey is more than just grades; it's about exploring the limitless possibilities in technology.”**
 
 </div>
 
 ---
 
+# 🔗 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mansi-kushwaha-140424261"><img src="https://img.shields.io/badge/LinkedIn-Mansi%20Kushwaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<a href="https://unstop.com/u/mansikus5847"><img src="https://img.shields.io/badge/Unstop-Mansi%20Kushwaha-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+<a href="https://github.com/Mansi232323"><img src="https://img.shields.io/badge/GitHub-Mansi232323-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🪐 ONE-LINE VERSION OF ME
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:020617&height=140&section=footer" width="100%"/>
 
-### **“I turn curiosity into code, data into insight, and ideas into impact.”**
+### ⭐ Thanks for visiting my digital space!
 
-<br>
-
-`📊 Data` &nbsp; `🤖 AI` &nbsp; `💡 Ideas` &nbsp; `🎨 Creativity` &nbsp; `🚀 Impact`
-
-</div>
-
-# 🤝 LET'S CONNECT
-
-<div align="center">
-
-### 💡 Have an idea?
-### 🤖 Building an AI project?
-### 📊 Working with data?
-### 🌐 Interested in collaboration?
-
-## **Let's build something impactful together. 🚀**
-
-<br>
-
-<a href="https://www.linkedin.com/in/mansi-kushwaha-140424261"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://unstop.com/u/mansikus5847"><img src="https://img.shields.io/badge/Unstop-Visit-FF6B35?style=for-the-badge"/></a>
-<a href="mailto:mansikushwaha1313@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br><br>
-
-⭐ **If you like my work, consider starring a repository!**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:020617&height=140&section=footer"/>
+**Mansi Kushwaha • Mansi232323**
 
 </div>
