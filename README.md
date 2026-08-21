@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💜 MANSI KUSHWAHA
+# 👋 MANSI KUSHWAHA
 
 ### `DATA ANALYST` • `DATA SCIENTIST` • `ML ENGINEER` • `AI ENGINEER`
 
@@ -30,7 +30,7 @@ I'm **Mansi Kushwaha**, a B.Tech graduate in **Electronics & Communication Engin
 
 I'm passionate about transforming **raw data into actionable insights** and building intelligent solutions for real-world problems.
 
-My interests span across **Data Analytics, Machine Learning, Artificial Intelligence, and Generative AI**, with a strong focus on practical problem-solving and continuous learning.
+My interests span across **Data Analytics, Machine Learning, Artificial Intelligence, and Generative AI**, with a strong focus on practical problem-solving, continuous learning, and building technology that creates meaningful impact.
 
 ### 🔎 My Core Areas
 
@@ -81,27 +81,37 @@ My interests span across **Data Analytics, Machine Learning, Artificial Intellig
 
 # 🎯 WHAT I DO
 
-I work at the intersection of **Data Analytics, Artificial Intelligence, and Machine Learning**, focusing on transforming data into meaningful insights and practical intelligent solutions.
+I work at the intersection of **Data Analytics, Artificial Intelligence, Machine Learning, and Generative AI**, with a focus on solving problems through data-driven and intelligent approaches.
 
-### 📊 Data Analytics
+### 📊 DATA ANALYTICS & BUSINESS INTELLIGENCE
 
-I work with **Excel, Power Query, SQL, Python, Power BI, and Tableau** to clean, transform, analyze, and visualize data.
+I work with **Excel, Power Query, SQL, Python, Power BI, Tableau, PivotTables, Power Pivot, and DAX** to turn raw and unstructured data into organized, meaningful information.
 
-My focus is on identifying patterns, understanding business problems, creating meaningful dashboards, and converting raw data into **clear and actionable insights**.
+My analytical workflow includes **data cleaning, transformation, exploratory analysis, KPI development, dashboard creation, reporting, and business insight generation**.
 
-### 🤖 Artificial Intelligence & Machine Learning
+I enjoy finding patterns in data and presenting complex information in a way that is easy to understand and useful for decision-making.
 
-I explore **Machine Learning, Deep Learning, NLP, Computer Vision, and Predictive Analytics** to solve real-world problems using data-driven approaches.
+### 🤖 MACHINE LEARNING & ARTIFICIAL INTELLIGENCE
 
-I enjoy working through the complete process — from **data preparation and exploratory analysis to model development, evaluation, and interpretation**.
+I explore **Machine Learning, Deep Learning, Predictive Analytics, NLP, Computer Vision, and model evaluation**.
 
-### ✨ Generative AI
+My approach focuses on understanding the problem first, preparing quality data, performing exploratory analysis, selecting appropriate algorithms, evaluating model performance, and interpreting results.
 
-I'm interested in **Generative AI, Prompt Engineering, and AI-powered applications**.
+### ✨ GENERATIVE AI
 
-I explore how modern AI technologies can be used to improve productivity, automate tasks, generate insights, and create smarter solutions.
+I'm interested in **Generative AI, Prompt Engineering, Large Language Models, NLP, and AI-powered applications**.
 
-### 🧩 My Problem-Solving Approach
+I explore how modern AI can be used for **automation, intelligent assistance, content generation, productivity, analytics, and real-world problem solving**.
+
+### 📈 DATA STORYTELLING
+
+Beyond analysis, I focus on communicating insights effectively through **interactive dashboards, visualizations, reports, and clear data-driven narratives**.
+
+The goal is not just to analyze data, but to answer:
+
+> **What happened? Why did it happen? What can we learn from it? What should we do next?**
+
+### 🧩 MY PROBLEM-SOLVING APPROACH
 
 ```text
 RAW DATA
@@ -110,7 +120,7 @@ RAW DATA
     ↓
 🔄 TRANSFORM
     ↓
-🔍 ANALYZE
+🔍 EXPLORE
     ↓
 📊 VISUALIZE
     ↓
@@ -118,16 +128,16 @@ RAW DATA
     ↓
 💡 INSIGHT
     ↓
+🎯 DECISION
+    ↓
 🚀 IMPACT
 ```
-
-I believe in continuously **learning, building, experimenting, and improving** through practical work and real-world problem solving.
 
 ---
 
 # 💻 TECH STACK
 
-### 📊 DATA ANALYTICS & BUSINESS INTELLIGENCE
+### 📊 DATA ANALYTICS & BI
 
 <p align="center">
 
@@ -137,7 +147,7 @@ I believe in continuously **learning, building, experimenting, and improving** t
 
 <div align="center">
 
-`Excel` • `Power Query` • `Power Pivot` • `PivotTables` • `Power BI` • `Tableau` • `SQL` • `Python` • `DAX`
+`Python` • `SQL` • `MySQL` • `PostgreSQL` • `SQLite` • `Excel` • `Power Query` • `Power Pivot` • `Power BI` • `Tableau` • `PivotTables` • `DAX`
 
 </div>
 
@@ -169,7 +179,7 @@ I believe in continuously **learning, building, experimenting, and improving** t
 
 <div align="center">
 
-`Generative AI` • `Hugging Face` • `Transformers` • `BERT` • `NLP` • `Prompt Engineering`
+`Generative AI` • `Hugging Face` • `Transformers` • `BERT` • `NLP` • `Prompt Engineering` • `LLMs`
 
 </div>
 
@@ -191,7 +201,7 @@ I believe in continuously **learning, building, experimenting, and improving** t
 
 ---
 
-### 🔧 TOOLS & DEVELOPMENT ENVIRONMENT
+### 🧰 TOOLS & DEVELOPMENT ENVIRONMENT
 
 <p align="center">
 
@@ -212,6 +222,28 @@ I believe in continuously **learning, building, experimenting, and improving** t
 <div align="center">
 
 `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `SciPy` • `Scikit-Learn`
+
+</div>
+
+---
+
+### 🛠️ COMPLETE TOOLKIT
+
+<div align="center">
+
+| 📊 DATA & BI |      🤖 AI / ML      | 💻 DEVELOPMENT |   🔧 TOOLS   |
+| :----------: | :------------------: | :------------: | :----------: |
+|     Excel    |   Machine Learning   |     Python     |      Git     |
+|  Power Query |     Deep Learning    |       C++      |    GitHub    |
+|   Power BI   |      TensorFlow      |      HTML      |    Jupyter   |
+|    Tableau   |        PyTorch       |       CSS      |    VS Code   |
+|      SQL     |          NLP         |   JavaScript   |   Anaconda   |
+|      DAX     |    Computer Vision   |      Flask     | Google Cloud |
+|  Power Pivot |     Generative AI    |     FastAPI    | Google Colab |
+|    Pandas    |         BERT         |                |              |
+|     NumPy    |     Hugging Face     |                |              |
+|  Matplotlib  | Predictive Analytics |                |              |
+|    Seaborn   |  Prompt Engineering  |                |              |
 
 </div>
 
