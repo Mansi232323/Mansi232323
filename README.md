@@ -140,7 +140,7 @@ I believe in continuously **learning, building, experimenting, and improving** t
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,tensorflow,pytorch,git,github,jupyter,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,tensorflow,pytorch,git,github,GOOGLE COLAB,vscode"/>
 
 </p>
 
