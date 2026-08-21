@@ -1,10 +1,21 @@
+Yes bro. Below is the **complete README from scratch**, cleaned up according to everything we finalized:
+
+* ❌ Navigation removed
+* ❌ 17 Projects removed
+* ❌ Project Categories removed
+* ✅ Detailed **What I Do** section added
+* ✅ Expanded Tech Stack
+* ✅ Contribution Snake correctly connected to `output` branch
+* ✅ Dark/Light mode Snake
+* ✅ Remaining sections retained
+
 <div align="center">
 
 # 💜 MANSI KUSHWAHA
 
 ### `DATA ANALYST` • `DATA SCIENTIST` • `ML ENGINEER` • `AI ENGINEER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=9B5CFF&center=true&vCenter=true&width=850&lines=Turning+Data+into+Actionable+Insights+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Data+Analytics+%7C+Machine+Learning+%7C+Generative+AI;Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Impact+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=9B5CFF&center=true&vCenter=true&width=800&lines=Turning+Data+into+Actionable+Insights+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Data+Analytics+%7C+Machine+Learning+%7C+Generative+AI;Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Impact+%F0%9F%9A%80"/>
 
 <br>
 
@@ -32,18 +43,17 @@ I'm passionate about transforming **raw data into actionable insights** and buil
 
 My interests span across **Data Analytics, Machine Learning, Artificial Intelligence, and Generative AI**, with a strong focus on practical problem-solving, continuous learning, and creating meaningful impact through technology.
 
-### 🔎 Core Areas
+### 🔎 My Core Areas
 
-📊 Data Analytics  
-🐍 Python & SQL  
-📗 Excel & Power Query  
-📈 Power BI & Tableau  
-🤖 Machine Learning  
-🧠 Deep Learning  
-✨ Generative AI  
-💬 Prompt Engineering  
-🔍 Predictive Analytics  
-🗣️ NLP & Computer Vision
+📊 Data Analytics
+🐍 Python & SQL
+📗 Excel & Power Query
+📈 Power BI & Tableau
+🤖 Machine Learning
+🧠 Deep Learning
+✨ Generative AI
+💬 Prompt Engineering
+🔍 Predictive Analytics
 
 </td>
 
@@ -67,7 +77,7 @@ My interests span across **Data Analytics, Machine Learning, Artificial Intellig
 💡 INSIGHT
     ↓
 🚀 IMPACT
-````
+```
 
 ### 💭 Philosophy
 
@@ -82,95 +92,59 @@ My interests span across **Data Analytics, Machine Learning, Artificial Intellig
 
 # 🎯 WHAT I DO
 
-I work at the intersection of **Data Analytics, Artificial Intelligence, Machine Learning, and Generative AI**.
+I work at the intersection of **Data Analytics, Artificial Intelligence, Machine Learning, and Generative AI**, focusing on transforming data into meaningful insights and practical intelligent solutions.
 
-My goal is to turn complex data and ideas into **clear insights, intelligent systems, and practical solutions**.
+### 📊 DATA ANALYTICS & BUSINESS INTELLIGENCE
 
-### 📊 DATA ANALYTICS
+I work with **Excel, Power Query, SQL, Python, Power BI, Tableau, PivotTables, Power Pivot, and DAX** to clean, transform, analyze, and visualize data.
 
-I use **Excel, Power Query, SQL, Python, Power BI, Tableau, PivotTables, Power Pivot, and DAX** to transform raw data into meaningful information.
+My workflow includes **data cleaning, transformation, exploratory analysis, KPI development, dashboard creation, reporting, and business insight generation**.
 
-My analytics workflow includes:
+I enjoy finding patterns in data and presenting complex information in a way that is simple, visual, and useful for decision-making.
 
-* Data Cleaning
-* Data Transformation
-* Exploratory Data Analysis
-* KPI Development
-* Dashboard Development
-* Business Intelligence
-* Data Visualization
-* Reporting
-* Data Storytelling
+### 🤖 MACHINE LEARNING & ARTIFICIAL INTELLIGENCE
 
-### 🤖 MACHINE LEARNING
+I explore **Machine Learning, Deep Learning, Predictive Analytics, NLP, Computer Vision, and model evaluation** to solve real-world problems using data-driven approaches.
 
-I work with machine-learning techniques to identify patterns, make predictions, and solve real-world problems.
+My approach covers the complete lifecycle:
 
 ```text
 Problem Definition
-        ↓
+       ↓
 Data Collection
-        ↓
+       ↓
 Data Cleaning
-        ↓
+       ↓
 EDA
-        ↓
+       ↓
 Feature Engineering
-        ↓
+       ↓
 Model Development
-        ↓
+       ↓
 Evaluation
-        ↓
-Prediction
-        ↓
-Business Insight
+       ↓
+Insights
 ```
-
-### 🧠 ARTIFICIAL INTELLIGENCE
-
-I'm interested in:
-
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Computer Vision
-* Predictive Analytics
-* Intelligent Automation
-* AI-powered Applications
 
 ### ✨ GENERATIVE AI
 
-I'm exploring **Generative AI, Large Language Models, Prompt Engineering, NLP, Transformers, and AI-powered applications**.
+I'm interested in **Generative AI, Prompt Engineering, Large Language Models, NLP, and AI-powered applications**.
 
-I'm interested in using AI for:
-
-* Automation
-* Data Analysis
-* Intelligent Assistants
-* Productivity
-* Knowledge Extraction
-* Content Generation
-* Business Applications
+I explore how modern AI technologies can be used for **automation, intelligent assistance, productivity, analytics, content generation, and real-world problem solving**.
 
 ### 📈 DATA STORYTELLING
 
-I believe analytics is not just about numbers.
+I believe data analysis is not only about numbers.
 
-The real value comes from communicating insights clearly.
+The real value comes from communicating insights clearly through **dashboards, visualizations, reports, and data-driven storytelling**.
 
-```text
-What happened?
-      ↓
-Why did it happen?
-      ↓
-What can we learn?
-      ↓
-What should we do next?
-```
+My goal is to answer:
+
+> **What happened? → Why did it happen? → What can we learn? → What should we do next?**
 
 ---
 
-# 🧠 DATA → INSIGHT → IMPACT
+# 🧠 MY DATA-TO-IMPACT APPROACH
 
 <div align="center">
 
@@ -200,123 +174,117 @@ What should we do next?
 
 # 💻 TECH STACK
 
-## 📊 DATA ANALYTICS & BUSINESS INTELLIGENCE
+### 📊 DATA ANALYTICS & BUSINESS INTELLIGENCE
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite&perline=4"/>
+
+</p>
 
 <div align="center">
 
-`Excel` • `Power Query` • `Power Pivot` • `PivotTables`
-`Power BI` • `Tableau` • `DAX` • `SQL` • `MySQL`
-`PostgreSQL` • `Python` • `Pandas` • `NumPy`
+`Python` • `SQL` • `MySQL` • `PostgreSQL` • `SQLite`
+`Excel` • `Power Query` • `Power Pivot` • `PivotTables` • `Power BI` • `Tableau` • `DAX`
 
 </div>
 
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite&perline=4"/>
-</p>
-
 ---
 
-## 🤖 AI & MACHINE LEARNING
+### 🤖 AI & MACHINE LEARNING
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4"/>
+
+</p>
 
 <div align="center">
 
 `Machine Learning` • `Deep Learning` • `Scikit-Learn`
-`TensorFlow` • `PyTorch` • `NLP` • `Computer Vision`
-`Predictive Analytics` • `Feature Engineering` • `Model Evaluation`
+`TensorFlow` • `PyTorch` • `NLP` • `Computer Vision` • `Predictive Analytics`
 
 </div>
 
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4"/>
-</p>
-
 ---
 
-## ✨ GENERATIVE AI & NLP
+### 🧠 GENERATIVE AI & NLP
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=huggingface&perline=4"/>
+
+</p>
 
 <div align="center">
 
 `Generative AI` • `Hugging Face` • `Transformers` • `BERT`
-`NLP` • `Prompt Engineering` • `LLMs` • `AI Applications`
+`NLP` • `Prompt Engineering` • `LLMs`
 
 </div>
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=huggingface&perline=4"/>
-</p>
 
 ---
 
-## 💻 PROGRAMMING & DEVELOPMENT
-
-<div align="center">
-
-`Python` • `C++` • `HTML` • `CSS` • `JavaScript`
-`Flask` • `FastAPI` • `REST APIs`
-
-</div>
-
-<br>
+### 💻 PROGRAMMING & DEVELOPMENT
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,flask,fastapi&perline=7"/>
+
 </p>
-
----
-
-## 🧰 TOOLS & PLATFORMS
 
 <div align="center">
 
-`Git` • `GitHub` • `Jupyter Notebook` • `VS Code`
-`Anaconda` • `Google Cloud` • `Google Colab`
+`Python` • `C++` • `HTML` • `CSS` • `JavaScript` • `Flask` • `FastAPI`
 
 </div>
 
-<br>
+---
+
+### 🧰 TOOLS & DEVELOPMENT ENVIRONMENT
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,anaconda,gcp&perline=6"/>
+
 </p>
-
----
-
-## 📚 DATA SCIENCE LIBRARIES
 
 <div align="center">
 
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
-`SciPy` • `Scikit-Learn` • `TensorFlow` • `PyTorch` • `OpenCV`
+`Git` • `GitHub` • `Jupyter Notebook` • `VS Code` • `Anaconda`
+`Google Cloud` • `Google Colab`
 
 </div>
 
 ---
 
-## 🛠️ COMPLETE TOOLKIT
+### 📚 DATA SCIENCE LIBRARIES
 
 <div align="center">
 
-| 📊 DATA & BI |      🤖 AI / ML      | 💻 DEVELOPMENT |   🧰 TOOLS   |
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `SciPy` • `Scikit-Learn`
+
+</div>
+
+---
+
+### 🛠️ COMPLETE TOOLKIT
+
+<div align="center">
+
+| 📊 DATA & BI |      🤖 AI / ML      | 💻 DEVELOPMENT |   🔧 TOOLS   |
 | :----------: | :------------------: | :------------: | :----------: |
 |     Excel    |   Machine Learning   |     Python     |      Git     |
 |  Power Query |     Deep Learning    |       C++      |    GitHub    |
 |   Power BI   |      TensorFlow      |      HTML      |    Jupyter   |
 |    Tableau   |        PyTorch       |       CSS      |    VS Code   |
 |      SQL     |          NLP         |   JavaScript   |   Anaconda   |
-|     MySQL    |    Computer Vision   |      Flask     | Google Cloud |
-|  PostgreSQL  |     Generative AI    |     FastAPI    | Google Colab |
-|      DAX     |         BERT         |    REST APIs   |              |
-|  Power Pivot |     Hugging Face     |                |              |
-|    Pandas    | Predictive Analytics |                |              |
-|     NumPy    |  Prompt Engineering  |                |              |
-|  Matplotlib  |     Transformers     |                |              |
-|    Seaborn   |         LLMs         |                |              |
+|      DAX     |    Computer Vision   |      Flask     | Google Cloud |
+|  Power Pivot |     Generative AI    |     FastAPI    | Google Colab |
+|    Pandas    |         BERT         |                |              |
+|     NumPy    |     Hugging Face     |                |              |
+|  Matplotlib  | Predictive Analytics |                |              |
+|    Seaborn   |  Prompt Engineering  |                |              |
 
 </div>
 
@@ -475,11 +443,7 @@ Recognition
 
 <p align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi232323&bg_color=0D1117&color=9B5CFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
-width="96%"
-alt="GitHub Activity Graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi232323&bg_color=0D1117&color=9B5CFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="96%"/>
 
 </p>
 
@@ -490,11 +454,7 @@ alt="GitHub Activity Graph"
 
 ### 🔥 CONTRIBUTION STREAK
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi232323&theme=tokyonight&hide_border=true&background=0D1117"
-width="100%"
-alt="GitHub Contribution Streak"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi232323&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </td>
 
@@ -502,11 +462,7 @@ alt="GitHub Contribution Streak"
 
 ### 📊 GITHUB STATS
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Mansi232323&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B5CFF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=1800"
-width="100%"
-alt="GitHub Stats"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mansi232323&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B5CFF&icon_color=00D9FF&text_color=FFFFFF"/>
 
 </td>
 
@@ -522,19 +478,19 @@ alt="GitHub Stats"
 <picture>
 
 <source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake-dark.svg"
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake-dark.svg"
 />
 
 <source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"
 />
 
 <img
-src="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-width="95%"
+ alt="GitHub Contribution Snake"
+ src="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"
+ width="95%"
 />
 
 </picture>
@@ -660,10 +616,7 @@ IMPACT
 
 <div align="center">
 
-<img
-src="https://komarev.com/ghpvc/?username=Mansi232323&label=PROFILE%20VIEWS&color=9B5CFF&style=for-the-badge"
-alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=Mansi232323&label=PROFILE%20VIEWS&color=9B5CFF&style=for-the-badge"/>
 
 <br><br>
 
@@ -678,6 +631,3 @@ alt="Profile Views"
 ⬆️ **BACK TO TOP**
 
 </p>
-```
-
-**बस इस पूरे block को `README.md` में paste करो और Commit changes कर दो.**
