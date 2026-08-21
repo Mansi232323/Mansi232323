@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 MANSI KUSHWAHA
+# 💜 MANSI KUSHWAHA
 
 ### `DATA ANALYST` • `DATA SCIENTIST` • `ML ENGINEER` • `AI ENGINEER`
 
@@ -30,7 +30,7 @@ I'm **Mansi Kushwaha**, a B.Tech graduate in **Electronics & Communication Engin
 
 I'm passionate about transforming **raw data into actionable insights** and building intelligent solutions for real-world problems.
 
-My interests span across **Data Analytics, Machine Learning, Artificial Intelligence, and Generative AI**, with a strong focus on practical problem-solving, continuous learning, and building technology that creates meaningful impact.
+My interests span across **Data Analytics, Machine Learning, Artificial Intelligence, and Generative AI**, with a strong focus on practical problem-solving, continuous learning, and creating meaningful impact through technology.
 
 ### 🔎 My Core Areas
 
@@ -81,63 +81,89 @@ My interests span across **Data Analytics, Machine Learning, Artificial Intellig
 
 # 🎯 WHAT I DO
 
-I work at the intersection of **Data Analytics, Artificial Intelligence, Machine Learning, and Generative AI**, with a focus on solving problems through data-driven and intelligent approaches.
+I work at the intersection of **Data Analytics, Artificial Intelligence, Machine Learning, and Generative AI**, focusing on transforming data into meaningful insights and practical intelligent solutions.
 
 ### 📊 DATA ANALYTICS & BUSINESS INTELLIGENCE
 
-I work with **Excel, Power Query, SQL, Python, Power BI, Tableau, PivotTables, Power Pivot, and DAX** to turn raw and unstructured data into organized, meaningful information.
+I work with **Excel, Power Query, SQL, Python, Power BI, Tableau, PivotTables, Power Pivot, and DAX** to clean, transform, analyze, and visualize data.
 
-My analytical workflow includes **data cleaning, transformation, exploratory analysis, KPI development, dashboard creation, reporting, and business insight generation**.
+My workflow includes **data cleaning, transformation, exploratory analysis, KPI development, dashboard creation, reporting, and business insight generation**.
 
-I enjoy finding patterns in data and presenting complex information in a way that is easy to understand and useful for decision-making.
+I enjoy finding patterns in data and presenting complex information in a way that is simple, visual, and useful for decision-making.
 
 ### 🤖 MACHINE LEARNING & ARTIFICIAL INTELLIGENCE
 
-I explore **Machine Learning, Deep Learning, Predictive Analytics, NLP, Computer Vision, and model evaluation**.
+I explore **Machine Learning, Deep Learning, Predictive Analytics, NLP, Computer Vision, and model evaluation** to solve real-world problems using data-driven approaches.
 
-My approach focuses on understanding the problem first, preparing quality data, performing exploratory analysis, selecting appropriate algorithms, evaluating model performance, and interpreting results.
+My approach covers the complete lifecycle:
+
+```text
+Problem Definition
+       ↓
+Data Collection
+       ↓
+Data Cleaning
+       ↓
+EDA
+       ↓
+Feature Engineering
+       ↓
+Model Development
+       ↓
+Evaluation
+       ↓
+Insights
+```
 
 ### ✨ GENERATIVE AI
 
 I'm interested in **Generative AI, Prompt Engineering, Large Language Models, NLP, and AI-powered applications**.
 
-I explore how modern AI can be used for **automation, intelligent assistance, content generation, productivity, analytics, and real-world problem solving**.
+I explore how modern AI technologies can be used for **automation, intelligent assistance, productivity, analytics, content generation, and real-world problem solving**.
 
 ### 📈 DATA STORYTELLING
 
-Beyond analysis, I focus on communicating insights effectively through **interactive dashboards, visualizations, reports, and clear data-driven narratives**.
+I believe data analysis is not only about numbers.
 
-The goal is not just to analyze data, but to answer:
+The real value comes from communicating insights clearly through **dashboards, visualizations, reports, and data-driven storytelling**.
 
-> **What happened? Why did it happen? What can we learn from it? What should we do next?**
+My goal is to answer:
 
-### 🧩 MY PROBLEM-SOLVING APPROACH
+> **What happened? → Why did it happen? → What can we learn? → What should we do next?**
+
+---
+
+# 🧠 MY DATA-TO-IMPACT APPROACH
+
+<div align="center">
 
 ```text
-RAW DATA
-    ↓
+📥 RAW DATA
+      ↓
 🧹 CLEAN
-    ↓
+      ↓
 🔄 TRANSFORM
-    ↓
+      ↓
 🔍 EXPLORE
-    ↓
+      ↓
 📊 VISUALIZE
-    ↓
+      ↓
 🧠 MODEL
-    ↓
+      ↓
 💡 INSIGHT
-    ↓
+      ↓
 🎯 DECISION
-    ↓
+      ↓
 🚀 IMPACT
 ```
+
+</div>
 
 ---
 
 # 💻 TECH STACK
 
-### 📊 DATA ANALYTICS & BI
+### 📊 DATA ANALYTICS & BUSINESS INTELLIGENCE
 
 <p align="center">
 
@@ -147,7 +173,8 @@ RAW DATA
 
 <div align="center">
 
-`Python` • `SQL` • `MySQL` • `PostgreSQL` • `SQLite` • `Excel` • `Power Query` • `Power Pivot` • `Power BI` • `Tableau` • `PivotTables` • `DAX`
+`Python` • `SQL` • `MySQL` • `PostgreSQL` • `SQLite`
+`Excel` • `Power Query` • `Power Pivot` • `PivotTables` • `Power BI` • `Tableau` • `DAX`
 
 </div>
 
@@ -163,7 +190,8 @@ RAW DATA
 
 <div align="center">
 
-`Machine Learning` • `Deep Learning` • `Scikit-Learn` • `TensorFlow` • `PyTorch` • `NLP` • `Computer Vision` • `Predictive Analytics`
+`Machine Learning` • `Deep Learning` • `Scikit-Learn`
+`TensorFlow` • `PyTorch` • `NLP` • `Computer Vision` • `Predictive Analytics`
 
 </div>
 
@@ -179,7 +207,8 @@ RAW DATA
 
 <div align="center">
 
-`Generative AI` • `Hugging Face` • `Transformers` • `BERT` • `NLP` • `Prompt Engineering` • `LLMs`
+`Generative AI` • `Hugging Face` • `Transformers` • `BERT`
+`NLP` • `Prompt Engineering` • `LLMs`
 
 </div>
 
@@ -211,7 +240,8 @@ RAW DATA
 
 <div align="center">
 
-`Git` • `GitHub` • `Jupyter Notebook` • `VS Code` • `Anaconda` • `Google Cloud` • `Google Colab`
+`Git` • `GitHub` • `Jupyter Notebook` • `VS Code` • `Anaconda`
+`Google Cloud` • `Google Colab`
 
 </div>
 
@@ -413,33 +443,11 @@ Recognition
 
 ### 🔥 CONTRIBUTION STREAK
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi232323&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-# 🐍 CONTRIBUTION SNAKE
+</td>
 
-<p align="center">
-
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"
-    width="95%"
-  />
-
-</picture>
-
-</p>
+<td width="50%" align="center">
 
 ### 📊 GITHUB STATS
 
@@ -456,7 +464,25 @@ Recognition
 
 <p align="center">
 
-<img src="./output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+<picture>
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+ alt="GitHub Contribution Snake"
+ src="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"
+ width="95%"
+/>
+
+</picture>
 
 </p>
 
