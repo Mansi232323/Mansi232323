@@ -1,14 +1,3 @@
-Yes bro. Below is the **complete README from scratch**, cleaned up according to everything we finalized:
-
-* ❌ Navigation removed
-* ❌ 17 Projects removed
-* ❌ Project Categories removed
-* ✅ Detailed **What I Do** section added
-* ✅ Expanded Tech Stack
-* ✅ Contribution Snake correctly connected to `output` branch
-* ✅ Dark/Light mode Snake
-* ✅ Remaining sections retained
-
 <div align="center">
 
 # 💜 MANSI KUSHWAHA
