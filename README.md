@@ -127,22 +127,93 @@ I believe in continuously **learning, building, experimenting, and improving** t
 
 # 💻 TECH STACK
 
-| 📊 Data & BI          | 🤖 AI / ML           | 🧰 Programming & Tools |
-| --------------------- | -------------------- | ---------------------- |
-| Excel                 | Machine Learning     | Python                 |
-| Power Query           | Deep Learning        | SQL                    |
-| Power BI              | Generative AI        | C++                    |
-| Power Pivot           | Predictive Analytics | HTML                   |
-| Tableau               | BERT / NLP           | CSS                    |
-| PivotTables           | Prompt Engineering   | JavaScript             |
-| Data Visualization    | Computer Vision      | Git / GitHub           |
-| Business Intelligence | EDA                  | Jupyter / VS Code      |
+### 📊 DATA ANALYTICS & BUSINESS INTELLIGENCE
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,tensorflow,pytorch,git,github,GOOGLE COLAB,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite&perline=4"/>
 
 </p>
+
+<div align="center">
+
+`Excel` • `Power Query` • `Power Pivot` • `PivotTables` • `Power BI` • `Tableau` • `SQL` • `Python` • `DAX`
+
+</div>
+
+---
+
+### 🤖 AI & MACHINE LEARNING
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4"/>
+
+</p>
+
+<div align="center">
+
+`Machine Learning` • `Deep Learning` • `Scikit-Learn` • `TensorFlow` • `PyTorch` • `NLP` • `Computer Vision` • `Predictive Analytics`
+
+</div>
+
+---
+
+### 🧠 GENERATIVE AI & NLP
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=huggingface&perline=4"/>
+
+</p>
+
+<div align="center">
+
+`Generative AI` • `Hugging Face` • `Transformers` • `BERT` • `NLP` • `Prompt Engineering`
+
+</div>
+
+---
+
+### 💻 PROGRAMMING & DEVELOPMENT
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,flask,fastapi&perline=7"/>
+
+</p>
+
+<div align="center">
+
+`Python` • `C++` • `HTML` • `CSS` • `JavaScript` • `Flask` • `FastAPI`
+
+</div>
+
+---
+
+### 🔧 TOOLS & DEVELOPMENT ENVIRONMENT
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,anaconda,gcp&perline=6"/>
+
+</p>
+
+<div align="center">
+
+`Git` • `GitHub` • `Jupyter Notebook` • `VS Code` • `Anaconda` • `Google Cloud` • `Google Colab`
+
+</div>
+
+---
+
+### 📚 DATA SCIENCE LIBRARIES
+
+<div align="center">
+
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `SciPy` • `Scikit-Learn`
+
+</div>
 
 ---
 
