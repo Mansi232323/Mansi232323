@@ -157,30 +157,30 @@ I'm particularly interested in using AI for:
 * Business Applications
 
 ---
-
 # 💻 TECH STACK
 
 <div align="center">
 
-### 🛠️ TECHNOLOGIES & TOOLS
+### ⚡ TOOLS I BUILD WITH
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql,postgres,sqlite,tensorflow,pytorch,sklearn,opencv,git,github,jupyter,vscode,anaconda,gcp,flask,fastapi&perline=10"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,jupyter,vscode,git,github,anaconda,gcp,tensorflow,pytorch,opencv&perline=7"/>
 
-<br>
+<br><br>
 
-`Python` • `C++` • `HTML` • `CSS` • `JavaScript`  
-`SQL` • `MySQL` • `PostgreSQL` • `SQLite`  
-`Excel` • `Power Query` • `Power Pivot` • `PivotTables`  
-`Power BI` • `Tableau` • `DAX`  
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `SciPy`  
-`Scikit-Learn` • `TensorFlow` • `PyTorch` • `OpenCV`  
-`NLP` • `BERT` • `Hugging Face` • `Generative AI`  
-`Prompt Engineering` • `Machine Learning` • `Deep Learning`  
-`Git` • `GitHub` • `Jupyter Notebook` • `VS Code`  
-`Google Colab` • `Google Cloud` • `Anaconda`  
-`Flask` • `FastAPI` • `REST APIs`
+**📊 Analytics**  
+`Excel` `Power Query` `Power Pivot` `Power BI` `Tableau` `PivotTables` `DAX` `SQL` `EDA`
+
+**🐍 Programming**  
+`Python` `C++` `HTML` `CSS` `JavaScript`
+
+**🤖 AI / ML**  
+`Machine Learning` `Deep Learning` `Artificial Intelligence` `NLP` `BERT` `Computer Vision` `Generative AI` `Predictive Analytics`
+
+**🧠 Data Science**  
+`Pandas` `NumPy` `Matplotlib` `Scikit-Learn` `TensorFlow` `PyTorch` `OpenCV`
+
+**🛠️ Development & Platforms**  
+`Google Colab` `Jupyter Notebook` `VS Code` `Git` `GitHub` `Anaconda` `Google Cloud`
 
 </div>
 ---
