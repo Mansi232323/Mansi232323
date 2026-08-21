@@ -1,8 +1,3 @@
-Yes bro — **for your GitHub `README.md`**, not a separate document.
-
-Below is the clean version you can paste **directly into `README.md`**. I’ve kept it as **raw Markdown/HTML code**, so GitHub will render it properly.
-
-````markdown
 <div align="center">
 
 # 💜 MANSI KUSHWAHA
