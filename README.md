@@ -160,73 +160,29 @@ I'm particularly interested in using AI for:
 
 # 💻 TECH STACK
 
-## 📊 DATA & BUSINESS INTELLIGENCE
-
 <div align="center">
 
-`Microsoft Excel` • `Power Query` • `Power Pivot` • `PivotTables`
-`Power BI` • `Tableau` • `DAX` • `SQL`
-`MySQL` • `PostgreSQL` • `SQLite`
+### 🛠️ TECHNOLOGIES & TOOLS
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql,postgres,sqlite,tensorflow,pytorch,sklearn,opencv,git,github,jupyter,vscode,anaconda,gcp,flask,fastapi&perline=10"/>
+</p>
 
 <br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3"/>
-</p>
-
----
-
-## 🐍 PROGRAMMING
-
-<div align="center">
-
-`Python` • `C++` • `JavaScript` • `HTML` • `CSS`
-
-</div>
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js&perline=5"/>
-</p>
-
----
-
-## 🤖 AI & MACHINE LEARNING
-
-<div align="center">
-
-`Machine Learning` • `Deep Learning` • `Scikit-Learn`
-`TensorFlow` • `PyTorch` • `NLP` • `Computer Vision`
-`Predictive Analytics` • `Feature Engineering`
+`Python` • `C++` • `HTML` • `CSS` • `JavaScript`  
+`SQL` • `MySQL` • `PostgreSQL` • `SQLite`  
+`Excel` • `Power Query` • `Power Pivot` • `PivotTables`  
+`Power BI` • `Tableau` • `DAX`  
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `SciPy`  
+`Scikit-Learn` • `TensorFlow` • `PyTorch` • `OpenCV`  
+`NLP` • `BERT` • `Hugging Face` • `Generative AI`  
+`Prompt Engineering` • `Machine Learning` • `Deep Learning`  
+`Git` • `GitHub` • `Jupyter Notebook` • `VS Code`  
+`Google Colab` • `Google Cloud` • `Anaconda`  
+`Flask` • `FastAPI` • `REST APIs`
 
 </div>
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4"/>
-</p>
-
----
-
-## ✨ GENERATIVE AI
-
-<div align="center">
-
-`Generative AI` • `LLMs` • `Transformers` • `BERT`
-`Hugging Face` • `Prompt Engineering` • `NLP`
-
-</div>
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=huggingface&perline=3"/>
-</p>
-
 ---
 
 ## 🧰 TOOLS & PLATFORMS
