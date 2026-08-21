@@ -167,51 +167,9 @@ I'm particularly interested in using AI for:
 
 <br><br>
 
-**📊 Analytics**  
-`Excel` `Power Query` `Power Pivot` `Power BI` `Tableau` `PivotTables` `DAX` `SQL` `EDA`
-
-**🐍 Programming**  
-`Python` `C++` `HTML` `CSS` `JavaScript`
-
-**🤖 AI / ML**  
-`Machine Learning` `Deep Learning` `Artificial Intelligence` `NLP` `BERT` `Computer Vision` `Generative AI` `Predictive Analytics`
-
-**🧠 Data Science**  
-`Pandas` `NumPy` `Matplotlib` `Scikit-Learn` `TensorFlow` `PyTorch` `OpenCV`
-
-**🛠️ Development & Platforms**  
-`Google Colab` `Jupyter Notebook` `VS Code` `Git` `GitHub` `Anaconda` `Google Cloud`
-
 </div>
 ---
 
-## 🧰 TOOLS & PLATFORMS
-
-<div align="center">
-
-`Git` • `GitHub` • `Jupyter Notebook` • `VS Code`
-`Google Colab` • `Google Cloud` • `Anaconda`
-
-</div>
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,colab,gcp,anaconda&perline=7"/>
-</p>
-
----
-
-## 📚 DATA SCIENCE LIBRARIES
-
-<div align="center">
-
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
-`SciPy` • `Scikit-Learn` • `TensorFlow` • `PyTorch` • `OpenCV`
-
-</div>
-
----
 
 ## 🛠️ COMPLETE TOOLKIT
 
