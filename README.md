@@ -332,6 +332,80 @@ Developed features, fixed bugs, improved documentation and collaborated using Gi
 
 ---
 
+
+---
+
+# 🪪 PERSONAL • BEYOND THE CODE
+
+<div align="center">
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### ☕ VIBE
+**Curious**  
+**Creative**  
+**Always Learning**
+
+</td>
+<td width="25%" align="center">
+
+### 🧠 MINDSET
+**Learn**  
+**Build**  
+**Experiment**
+
+</td>
+<td width="25%" align="center">
+
+### 🎯 FOCUS
+**Data**  
+**AI**  
+**Impact**
+
+</td>
+<td width="25%" align="center">
+
+### 💜 ENERGY
+**Explore**  
+**Create**  
+**Inspire**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                     MANSI'S DIGITAL DNA                     │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   🔍 CURIOUSITY        →  I like understanding how things work│
+│   🧩 PROBLEM SOLVING   →  I turn messy problems into systems │
+│   🎨 CREATIVITY        →  I enjoy making ideas visually clear│
+│   🤖 TECHNOLOGY        →  AI + Data are my playground        │
+│   🚀 GROWTH            →  Every project is a new experiment  │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+### 🌙 A little about me
+
+I'm someone who enjoys sitting at the intersection of **technology, creativity and problem-solving**.
+
+I like taking something complicated, breaking it into smaller pieces, understanding the pattern and then turning it into something useful — whether that's a **dashboard, model, automation, research idea or AI application**.
+
+When I'm not working with data or AI, I enjoy exploring creative activities, learning new things and trying to make whatever I build look as good as it works.
+
+### ⚡ My Working Style
+
+`CURIOUS` → `ANALYZE` → `CREATE` → `TEST` → `ITERATE` → `IMPROVE`
+
+</div>
+
 # 💃 BEYOND TECHNOLOGY
 
 <details>
@@ -430,6 +504,21 @@ First Position in ADZAP and Slogan Writing competitions in 9th Standard.
 </div>
 
 ---
+
+
+---
+
+<div align="center">
+
+## 🪐 ONE-LINE VERSION OF ME
+
+### **“I turn curiosity into code, data into insight, and ideas into impact.”**
+
+<br>
+
+`📊 Data` &nbsp; `🤖 AI` &nbsp; `💡 Ideas` &nbsp; `🎨 Creativity` &nbsp; `🚀 Impact`
+
+</div>
 
 # 🤝 LET'S CONNECT
 
