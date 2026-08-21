@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://www.igdtuw.ac.in/"/>
+<img src="https://img.shields.io/badge/IGDTUW-B.Tech%20ECE%20%7C%20AI-7B2CBF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DATA%20ANALYTICS-00B4D8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20%2F%20ML-8338EC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GENERATIVE%20AI-FF4B8B?style=for-the-badge"/>
