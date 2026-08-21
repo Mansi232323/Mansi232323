@@ -450,8 +450,11 @@ Recognition
 <td width="50%" align="center">
 
 ### 📊 GITHUB STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mansi232323&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B5CFF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Mansi232323&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B5CFF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=1800"
+  width="100%"
+  alt="Mansi Kushwaha GitHub Stats"
+/>
 
 </td>
 
