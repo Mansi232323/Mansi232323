@@ -1,128 +1,135 @@
 <div align="center">
 
-# 👋 Hey, I'm **Mansi Kushwaha**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Mansi%20Kushwaha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20%7C%20AI%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=20"/>
+
+# 👋 Hi, I'm Mansi Kushwaha
 
 ### `Data Analyst` • `Data Scientist` • `ML Engineer` • `AI Enthusiast`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=800&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%A4%96;Exploring+AI+%26+Machine+Learning+%F0%9F%A7%A0;Creating+Impact+with+Data+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&center=true&vCenter=true&width=850&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+Intelligent+Solutions+%F0%9F%A4%96;Exploring+Machine+Learning+%F0%9F%A7%A0;Creating+with+AI+%E2%9C%A8;Learn.+Build.+Innovate.+%F0%9F%9A%80" />
 
 <br>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="YOUR_UNSTOP_URL">
-<img src="https://img.shields.io/badge/Unstop-Profile-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unstop-Profile-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://github.com/Mansi232323">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Mansi232323&label=Profile%20Views&color=7C3AED&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Mansi232323&label=PROFILE%20VIEWS&color=667eea&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🧑‍💻 Who Am I?
+# 🧠 About Me
 
 ```python
 class MansiKushwaha:
 
-    role = [
-        "Data Analyst",
-        "Data Scientist",
-        "Machine Learning Engineer",
-        "AI Enthusiast"
-    ]
+    identity = "Data + AI Enthusiast"
 
     education = "B.Tech ECE (Artificial Intelligence) @ IGDTUW"
+
+    roles = [
+        "Data Analyst",
+        "Data Scientist",
+        "Machine Learning Engineer"
+    ]
 
     interests = [
         "Data Analytics",
         "Machine Learning",
         "Deep Learning",
         "Generative AI",
-        "Business Intelligence",
-        "Predictive Analytics"
+        "Business Intelligence"
     ]
 
-    currently_learning = [
-        "Advanced Data Analytics",
-        "Machine Learning",
-        "Deep Learning",
-        "Generative AI"
-    ]
+    mindset = "Learn → Build → Experiment → Improve"
 
-    philosophy = "Learn → Build → Experiment → Improve"
-
-    goal = "Build intelligent solutions for real-world problems 🚀"
+    mission = "Turn data into intelligent decisions 🚀"
 ```
+
+I enjoy transforming **raw data into actionable insights** and building AI-powered solutions that address real-world problems.
+
+My work spans **Data Analytics, Machine Learning, Predictive Modeling, Data Visualization, Business Intelligence, and Generative AI**.
 
 ---
 
-# ⚡ My Tech Universe
+# ⚡ My Tech Stack
 
 <div align="center">
 
-### 💻 Programming
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql" />
 
-### 🤖 AI / Machine Learning
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+
+<br>
 
 `Machine Learning` • `Deep Learning` • `NLP` • `BERT`
 `Generative AI` • `Prompt Engineering` • `Predictive Analytics`
 
-### 📊 Analytics & Visualization
+<br><br>
 
-`Excel` • `Power BI` • `Tableau` • `Power Query` • `SQL`
+### 📊 Analytics & BI
 
-### 🧰 Tools
+`Excel`   `Power BI`   `Tableau`   `Power Query`   `SQL`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<br><br>
 
-`Google Colab` • `Jupyter Notebook`
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" />
+
+<br>
+
+`Google Colab` • `Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn`
 
 </div>
 
 ---
 
-# 🧠 What I Love Working On
+# 🚀 What I Do
 
 <table>
 <tr>
 <td width="50%">
 
-### 📊 Data Analytics
+## 📊 Data Analytics
 
-Transforming messy datasets into meaningful insights.
-
-* Data Cleaning
-* EDA
-* KPI Analysis
-* Dashboard Development
-* Business Insights
-* Data Visualization
+🧹 Data Cleaning
+🔍 Exploratory Data Analysis
+📈 KPI Analysis
+📊 Interactive Dashboards
+💡 Business Insights
+📉 Data Visualization
 
 </td>
 
 <td width="50%">
 
-### 🤖 Machine Learning
+## 🤖 Machine Learning
 
-Building predictive models that solve practical problems.
-
-* Feature Engineering
-* Classification
-* Regression
-* Model Evaluation
-* Predictive Analytics
-* ML Optimization
+⚙️ Feature Engineering
+🧠 Classification
+📈 Regression
+🎯 Predictive Modeling
+📊 Model Evaluation
+🔬 ML Experimentation
 
 </td>
 </tr>
@@ -130,29 +137,25 @@ Building predictive models that solve practical problems.
 <tr>
 <td>
 
-### 🧠 Artificial Intelligence
+## 🧠 Artificial Intelligence
 
-Exploring intelligent systems and modern AI.
-
-* Deep Learning
-* NLP
-* BERT
-* Generative AI
-* Prompt Engineering
+🔹 Deep Learning
+🔹 NLP
+🔹 BERT
+🔹 Generative AI
+🔹 Prompt Engineering
 
 </td>
 
 <td>
 
-### 📈 Business Intelligence
+## 💼 Business Intelligence
 
-Making data easier to understand and act upon.
-
-* Power BI
-* Excel
-* Tableau
-* Interactive Dashboards
-* KPI Reporting
+📊 Power BI
+📗 Excel
+📈 Tableau
+🔄 Power Query
+🎯 KPI Reporting
 
 </td>
 </tr>
@@ -160,18 +163,47 @@ Making data easier to understand and act upon.
 
 ---
 
-# 🚀 Featured Work
+# 🔥 Featured Projects
 
 <div align="center">
 
-|     🔥 Area    | 🛠️ What I Build                           |
-| :------------: | :----------------------------------------- |
-|  📊 Analytics  | Interactive dashboards & business insights |
-|      🤖 ML     | Predictive & classification models         |
-|      🧠 AI     | Intelligent applications                   |
-|     ✨ GenAI    | AI-powered applications & prompt workflows |
-|   🔬 Research  | ML/DL research & experimentation           |
-| 💻 Open Source | Collaborative development & contributions  |
+### 🩺 Healthcare Analytics Dashboard
+
+**Interactive medical analytics dashboard**
+
+`Excel` `Pivot Tables` `Slicers` `Power Query` `VBA`
+
+> Transforming healthcare data into interactive insights through dynamic dashboards and filtering.
+
+---
+
+### 🔐 Phishing URL Detection
+
+**AI-powered phishing detection research**
+
+`Python` `Machine Learning` `Deep Learning` `NLP` `Transformers`
+
+> Exploring large-scale URL classification using machine learning and modern AI approaches.
+
+---
+
+### 📊 Workforce Analytics
+
+**Employee performance & productivity analytics**
+
+`Excel` `Power BI` `SQL`
+
+> Turning workforce data into KPIs, performance insights and decision-support dashboards.
+
+---
+
+### 🤖 Generative AI Applications
+
+**AI-powered experimentation**
+
+`Python` `Generative AI` `Prompt Engineering`
+
+> Exploring practical applications of modern Generative AI systems.
 
 </div>
 
@@ -181,67 +213,56 @@ Making data easier to understand and act upon.
 
 <div align="center">
 
-### 🥇 Machine Learning
-
-**Built predictive analytics solutions with up to 95% model accuracy**
-
-### 🔬 Research
-
-**Contributed to Skin Cancer Image Classification research**
-
-### 🏆 Hackathon
-
-**ET GenAI Hackathon — Semi-Finalist & Top Performer**
-
-### 🌐 Open Source
-
-**Social Winter of Code 2023 Contributor**
-
-### 👩‍💼 Leadership
-
-**GEC Coordinator • INNERVE Head Coordinator • IEEE Website Coordinator**
+<img src="https://github-profile-trophy.vercel.app/?username=Mansi232323&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
+<br>
+
+| 🏅 Achievement       | 💫 Highlight                                                           |
+| -------------------- | ---------------------------------------------------------------------- |
+| 🤖 **ML**            | Built predictive analytics solutions with up to **95% model accuracy** |
+| 🔬 **Research**      | Contributed to **Skin Cancer Image Classification** research           |
+| 🏆 **Hackathon**     | **ET GenAI Hackathon — Semi-Finalist & Top Performer**                 |
+| 🌐 **Open Source**   | Contributor — **Social Winter of Code 2023**                           |
+| 👩‍💼 **Leadership** | GEC Coordinator • INNERVE Head Coordinator • IEEE Website Coordinator  |
+
 ---
 
-# 💼 Experience Snapshot
+# 💼 Experience Timeline
 
 ```text
-2023 ─────────────── 2024 ─────────────── 2025 ─────────────── 2026
+2023                 2024                 2025                 2026
+ │                     │                     │                     │
+ ▼                     ▼                     ▼                     ▼
 
- 🤖 AI/ML              ✨ GenAI              📊 Data Science       📈 Data Analytics
-     │                      │                      │                     │
-     ▼                      ▼                      ▼                     ▼
- Python + ML          Generative AI         Predictive          Excel + SQL
- ML Workflows         Prompt Engineering    Modeling            Python + Power BI
+🤖 AI/ML            ✨ GenAI             📊 Data Science       📈 Data Analytics
+ │                     │                     │                     │
+Python + ML        Generative AI        Predictive Modeling   Excel + SQL
+ML Workflows       Prompt Engineering   Data Visualization    Python + Power BI
+ │                     │                     │                     │
+ └─────────────────────┴─────────────────────┴─────────────────────┘
+                              ↓
+                         DATA + AI
 ```
 
 ### 📈 Data Analyst — NoviTech R&D Pvt Ltd
 
 `May 2026 → June 2026`
 
-Worked with:
+Worked with **Excel, SQL, Python and Power BI**, focusing on data cleaning, preprocessing, EDA, dashboards, KPI analysis and business insights.
 
-`Excel` `SQL` `Python` `Power BI`
+### 📊 Data Science — Summer Internship 2025
 
-Focused on:
+Worked on predictive modeling and visualization for an automotive market analysis case study.
 
-**Data Cleaning → EDA → Dashboarding → KPI Analysis → Business Insights**
+### ✨ Generative AI — Summer Internship 2024
 
-### 📊 Data Science Internship — 2025
+Hands-on experience in **Generative AI and Prompt Engineering**.
 
-Worked on a data-science case study involving automotive market analysis, predictive modeling and visualization.
+### 🤖 Python & Machine Learning — Summer Internship 2023
 
-### ✨ Generative AI Internship — 2024
-
-Hands-on experience with Generative AI and Prompt Engineering.
-
-### 🤖 Python & ML Internship — 2023
-
-Worked on:
-
-`Data Preprocessing` → `Feature Engineering` → `ML Models` → `Evaluation`
+Worked on preprocessing, feature engineering, visualization and supervised/unsupervised ML workflows.
 
 ---
 
@@ -249,17 +270,13 @@ Worked on:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mansi232323&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mansi232323&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi232323&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi232323&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mansi232323&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Mansi232323&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -269,13 +286,13 @@ Worked on:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi232323&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi232323&theme=tokyo-night&hide_border=true&area=true&custom_title=Mansi's%20Contribution%20Graph"/>
 
 </div>
 
 ---
 
-# 🐍 My Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -289,83 +306,82 @@ Worked on:
 
 <div align="center">
 
+| 📚 Area          | 🔎 Focus                                    |
+| ---------------- | ------------------------------------------- |
+| 📊 Data          | Advanced Analytics • SQL • Power BI         |
+| 🤖 ML            | Predictive Modeling • Model Optimization    |
+| 🧠 Deep Learning | Neural Networks • NLP                       |
+| ✨ GenAI          | LLMs • Prompt Engineering • AI Applications |
+| 🌐 Engineering   | Git • GitHub • Open Source                  |
+
+</div>
+
+---
+
+# 🎯 2026 Mission
+
 ```text
-                 ┌──────────────────────┐
-                 │       AI + DATA      │
-                 └──────────┬───────────┘
-                            │
-          ┌─────────────────┼─────────────────┐
-          ↓                 ↓                 ↓
-      📊 Analytics       🤖 ML            🧠 Deep Learning
-          │                 │                 │
-          ↓                 ↓                 ↓
-       Power BI        Scikit-learn       TensorFlow
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            ↓
-                       ✨ GenAI
-                            ↓
-                     🚀 Real Impact
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│                 🚀 BUILD MORE                       │
+│                                                     │
+│       📊 Analytics      🤖 Machine Learning         │
+│              \                /                     │
+│               \              /                      │
+│                \            /                       │
+│                 🧠 AI + DATA                        │
+│                       │                             │
+│                       ▼                             │
+│                💡 REAL IMPACT                      │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
-</div>
+* 🚀 Build production-ready AI/ML projects
+* 📊 Create advanced analytics dashboards
+* 🧠 Strengthen Deep Learning expertise
+* ✨ Build practical Generative AI applications
+* 🌐 Contribute to Open Source
+* 🔬 Explore impactful AI research
 
 ---
 
-# 🎯 2026 Goals
-
-* [ ] 🚀 Build production-ready ML projects
-* [ ] 📊 Create advanced Power BI & analytics dashboards
-* [ ] 🧠 Deepen Deep Learning knowledge
-* [ ] ✨ Build practical Generative AI applications
-* [ ] 🌐 Contribute more to Open Source
-* [ ] 🔬 Work on impactful AI research
-* [ ] 💻 Build a strong portfolio of end-to-end projects
-
----
-
-# 💡 My Development Philosophy
+# 💡 My Philosophy
 
 <div align="center">
 
-### **DATA → INSIGHT → INTELLIGENCE → IMPACT**
+## **DATA → INSIGHT → INTELLIGENCE → IMPACT**
 
 <br>
 
-> *"I don't just want to build models.*
->
-> *I want to build solutions that matter."*
+> **"Don't just analyze data.
+> Turn it into something that matters."**
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Let's Build Something Together
 
 <div align="center">
 
-I'm always interested in:
+💡 **Ideas**   •   🤝 **Collaboration**   •   🚀 **Projects**
+📊 **Analytics**   •   🤖 **AI/ML**   •   🌐 **Open Source**
 
-**💡 Interesting Ideas**
-**🤝 Collaborations**
-**🚀 AI/ML Projects**
-**📊 Data Analytics**
-**🌐 Open Source**
-
-<br>
+<br><br>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="YOUR_UNSTOP_URL">
-<img src="https://img.shields.io/badge/Unstop-Visit-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unstop-Visit-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br><br>
 
-### ⭐ *Thanks for visiting my profile!*
+### ⭐ Thanks for visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
 </div>
