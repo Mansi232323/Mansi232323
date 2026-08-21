@@ -413,11 +413,33 @@ Recognition
 
 ### 🔥 CONTRIBUTION STREAK
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi232323&theme=tokyonight&hide_border=true&background=0D1117"/>
+---
 
-</td>
+# 🐍 CONTRIBUTION SNAKE
 
-<td width="50%" align="center">
+<p align="center">
+
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Mansi232323/Mansi232323/output/github-contribution-grid-snake.svg"
+    width="95%"
+  />
+
+</picture>
+
+</p>
 
 ### 📊 GITHUB STATS
 
