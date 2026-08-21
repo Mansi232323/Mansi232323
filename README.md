@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="mansi-3d-profile.png"
+    alt="Mansi Kushwaha - Data Analyst | Data Scientist | ML Engineer"
+    width="100%"
+  />
+</p>
 # 💜 MANSI KUSHWAHA
 
 <p align="center">
