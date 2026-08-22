@@ -1,8 +1,3 @@
-Yes bro. Let's make it **completely from scratch**, with a clean, premium, memorable identity — **no carousel, no numbering, no unnecessary résumé-style blocks**.
-
-I’d use your GitHub profile as a **“Data × AI Lab”** rather than a conventional portfolio.
-
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,20,24&text=MANSI%20KUSHWAHA&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20%7C%20AI%20%7C%20ML%20%7C%20GENAI&descAlignY=62&descSize=18"/>
@@ -629,14 +624,3 @@ alt="GitHub Contribution Snake"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,14,18,20,24"/>
 ```
 
-### 🔥 This is the direction I'd recommend
-
-Your old README was **information-heavy**. This one is designed around one strong personal brand:
-
-> **MANSI KUSHWAHA — DATA × AI BUILDER**
-
-It makes the visitor understand in a few seconds:
-
-**Who you are → What you build → What you know → What you've achieved → Where you're going → How to connect.**
-
-And most importantly, **your 17 projects should become the centerpiece next** rather than hiding them underneath a huge skills section.
