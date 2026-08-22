@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,20,24&text=MANSI%20KUSHWAHA&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20%7C%20AI%20%7C%20ML%20%7C%20GENAI&descAlignY=62&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,14,18,20,24&text=MANSI%20KUSHWAHA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20%7C%20AI%20%7C%20ML%20%7C%20GENAI&descAlignY=62&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2400&pause=800&color=A855F7&center=true&vCenter=true&width=900&lines=%24+whoami;%24+Mansi+Kushwaaha;%24+Data+Analyst+%7C+AI+%26+ML+Enthusiast;%24+turning+raw+data+into+meaningful+insights;%24+building+intelligent+solutions;%24+always+learning.+always+building.+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2400&pause=700&color=A855F7&center=true&vCenter=true&width=900&lines=%24+whoami;%24+Mansi+Kushwaaha;%24+Data+Analyst+%7C+AI+%26+ML+Enthusiast;%24+Turning+Data+into+Insights;%24+Building+Intelligent+Solutions;%24+Learn+%E2%86%92+Build+%E2%86%92+Impact+%F0%9F%9A%80"/>
 
 <br><br>
 
@@ -19,112 +19,135 @@
 
 <div align="center">
 
-# `WELCOME TO MY DIGITAL LAB`
+# `DATA × AI × IMPACT`
 
-### Where **DATA meets INTELLIGENCE**
+### Turning **raw data** into **meaningful insights**
+### and **ideas** into **intelligent solutions**.
 
 <br>
 
-`DATA` → `UNDERSTAND` → `BUILD` → `EXPERIMENT` → `IMPACT`
+`DATA` ━━━► `INSIGHT` ━━━► `INTELLIGENCE` ━━━► `IMPACT`
 
 </div>
 
 ---
 
-# 👩‍💻 ABOUT ME
-
-Hi, I'm **Mansi Kushwaha**.
-
-I'm a **B.Tech graduate in Electronics & Communication Engineering (Artificial Intelligence) from IGDTUW**, passionate about turning data into insights and ideas into intelligent solutions.
-
-My interests span across:
-
-**Data Analytics • Machine Learning • Artificial Intelligence • Generative AI**
-
-I enjoy working on problems where raw information needs to become something useful, understandable, and actionable.
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│             MY WORKFLOW                     │
-│                                             │
-│   RAW DATA                                   │
-│      ↓                                      │
-│   CLEAN                                      │
-│      ↓                                      │
-│   TRANSFORM                                  │
-│      ↓                                      │
-│   ANALYZE                                    │
-│      ↓                                      │
-│   VISUALIZE                                  │
-│      ↓                                      │
-│   MODEL                                      │
-│      ↓                                      │
-│   INSIGHT                                    │
-│      ↓                                      │
-│   IMPACT 🚀                                  │
-│                                             │
-└─────────────────────────────────────────────┘
-````
-
-> **I don't just want to use technology.
-> I want to understand it, experiment with it, and build with it.**
-
----
-
-# 🎯 WHAT I DO
-
-<div align="center">
+# 👩‍💻 WHO AM I?
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-## 📊
+### 👩‍💻 IDENTITY
 
-### DATA ANALYTICS
+**Mansi Kushwaha**
 
-Turning raw datasets into **clear, decision-ready insights.**
+B.Tech  
+ECE — Artificial Intelligence
 
-`Excel`
-`Power Query`
-`SQL`
-`Power BI`
-`DAX`
-`Tableau`
+**IGDTUW**
 
 </td>
 
 <td width="33%" align="center">
+
+### 🧠 MINDSET
+
+**Curious**
+
+**Analytical**
+
+**Builder**
+
+**Problem Solver**
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎯 MISSION
+
+Build useful solutions by combining
+
+**DATA + AI + TECHNOLOGY**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚡ MY CORE
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+## 📊
+
+### DATA
+
+`Excel`
+
+`Power Query`
+
+`SQL`
+
+`Power BI`
+
+`DAX`
+
+</td>
+
+<td width="25%" align="center">
+
+## 🐍
+
+### PYTHON
+
+`Pandas`
+
+`NumPy`
+
+`Matplotlib`
+
+`Scikit-Learn`
+
+</td>
+
+<td width="25%" align="center">
 
 ## 🤖
 
-### MACHINE LEARNING
+### AI / ML
 
-Finding patterns and building models that **learn from data.**
+`ML`
 
-`Python`
-`Pandas`
-`NumPy`
-`Scikit-Learn`
+`DL`
+
+`NLP`
+
+`Computer Vision`
+
 `TensorFlow`
-`PyTorch`
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ## ✨
 
-### GENERATIVE AI
+### GENAI
 
-Exploring intelligent systems powered by **LLMs and modern AI.**
-
-`NLP`
-`BERT`
-`Transformers`
 `LLMs`
+
+`BERT`
+
+`Transformers`
+
 `Prompt Engineering`
 
 </td>
@@ -132,150 +155,157 @@ Exploring intelligent systems powered by **LLMs and modern AI.**
 </tr>
 </table>
 
-</div>
-
 ---
 
-# 🧠 HOW I APPROACH A PROBLEM
+# 🔄 HOW I THINK
 
 <div align="center">
-
-```text
-                  ┌──────────────┐
-                  │ REAL PROBLEM │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │     DATA     │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │   EXPLORE    │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │   ANALYZE    │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │    BUILD     │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │   VALIDATE   │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │    IMPACT    │
-                  └──────────────┘
-```
-
-</div>
-
-### The questions I ask:
-
-**What happened?**
-→ Data Analytics
-
-**Why did it happen?**
-→ EDA & Statistics
-
-**What could happen next?**
-→ Machine Learning
-
-**Can we automate it?**
-→ AI
-
-**Can we make it smarter?**
-→ Generative AI
-
----
-
-# 🛠️ MY TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,jupyter,vscode,git,github,anaconda,gcp,tensorflow,pytorch,opencv&perline=7"/>
-
-<br><br>
-
-### DATA
-
-`Excel` `Power Query` `Power Pivot` `SQL` `MySQL` `PostgreSQL` `Power BI` `Tableau` `DAX`
-
-### DATA SCIENCE
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA` `Statistics`
-
-### AI / ML
-
-`Machine Learning` `Deep Learning` `TensorFlow` `PyTorch` `NLP` `Computer Vision`
-
-### GENERATIVE AI
-
-`LLMs` `Transformers` `BERT` `Prompt Engineering` `Generative AI`
-
-### DEVELOPMENT
-
-`Python` `C++` `HTML` `CSS` `JavaScript`
-
-### TOOLS
-
-`Git` `GitHub` `Jupyter` `Google Colab` `VS Code` `Anaconda` `Google Cloud`
-
-</div>
-
----
-
-# 🚀 WHAT I'M BUILDING
-
-<div align="center">
-
-### **FROM DATA TO REAL-WORLD SOLUTIONS**
-
-</div>
 
 <table>
 <tr>
 
-<td width="50%">
+<td align="center">
 
-### 📊 DATA PROJECTS
+### 📥
+**COLLECT**
 
-I work on projects involving:
-
-* Data cleaning
-* Data transformation
-* Power Query workflows
-* PivotTables
-* KPI development
-* Dashboard creation
-* Business intelligence
-* Data storytelling
-
-**Goal**
-
-> Make complex data easy to understand.
+Raw Data
 
 </td>
 
-<td width="50%">
+<td>━━►</td>
 
-### 🤖 AI PROJECTS
+<td align="center">
 
-I explore:
+### 🧹
+**CLEAN**
 
-* Machine Learning
-* Predictive Analytics
-* Deep Learning
-* NLP
-* Computer Vision
-* Generative AI
-* LLM applications
+Power Query  
+Python
 
-**Goal**
+</td>
 
-> Turn patterns into intelligent decisions.
+<td>━━►</td>
+
+<td align="center">
+
+### 🔍
+**EXPLORE**
+
+EDA  
+Statistics
+
+</td>
+
+<td>━━►</td>
+
+<td align="center">
+
+### 📊
+**VISUALIZE**
+
+Power BI  
+Excel
+
+</td>
+
+<td>━━►</td>
+
+<td align="center">
+
+### 🤖
+**MODEL**
+
+ML  
+AI
+
+</td>
+
+<td>━━►</td>
+
+<td align="center">
+
+### 💡
+**IMPACT**
+
+Decision  
+Solution
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🚀 WHAT I BUILD
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 📊
+
+**ANALYTICS**
+
+Raw Data  
+↓  
+Clean Data  
+↓  
+Dashboard  
+↓  
+Decision
+
+</td>
+
+<td width="25%" align="center">
+
+### 📈
+
+**BI**
+
+KPIs  
+↓  
+DAX  
+↓  
+Reports  
+↓  
+Insights
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖
+
+**ML**
+
+Data  
+↓  
+Features  
+↓  
+Model  
+↓  
+Prediction
+
+</td>
+
+<td width="25%" align="center">
+
+### ✨
+
+**GENAI**
+
+Prompt  
+↓  
+Context  
+↓  
+LLM  
+↓  
+Application
 
 </td>
 
@@ -284,49 +314,162 @@ I explore:
 
 ---
 
+# 🛠️ TECHNOLOGY UNIVERSE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,jupyter,vscode,git,github,anaconda,gcp,tensorflow,pytorch,opencv&perline=7"/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center">
+
+### 📊 DATA
+
+`Excel`  
+`Power Query`  
+`Power Pivot`  
+`Power BI`  
+`Tableau`  
+`SQL`  
+`MySQL`  
+`PostgreSQL`  
+`DAX`
+
+</td>
+
+<td align="center">
+
+### 🧠 DATA SCIENCE
+
+`Pandas`  
+`NumPy`  
+`Matplotlib`  
+`Seaborn`  
+`EDA`  
+`Statistics`  
+`Predictive Analytics`
+
+</td>
+
+<td align="center">
+
+### 🤖 AI
+
+`Machine Learning`  
+`Deep Learning`  
+`NLP`  
+`BERT`  
+`Computer Vision`  
+`TensorFlow`  
+`PyTorch`
+
+</td>
+
+<td align="center">
+
+### ⚙️ TOOLS
+
+`Git`  
+`GitHub`  
+`Jupyter`  
+`VS Code`  
+`Google Colab`  
+`Anaconda`  
+`Google Cloud`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
 # 💼 EXPERIENCE
 
 <div align="center">
 
-### `THE JOURNEY`
+<table>
+<tr>
+
+<td width="20%" align="center">
+
+### 🟢 2026
+
+**DATA ANALYST**
+
+NoviTech R&D
+
+`Excel`  
+`SQL`  
+`Python`  
+`Power BI`
+
+</td>
+
+<td width="20%" align="center">
+
+### 🟣 2025
+
+**DATA SCIENCE INTERN**
+
+IIT Madras Pravartak
+
+`Data Science`  
+`Predictive Analytics`
+
+</td>
+
+<td width="20%" align="center">
+
+### 🔵 2024
+
+**GENAI INTERN**
+
+Sansoftech
+
+`GenAI`  
+`Prompt Engineering`
+
+</td>
+
+<td width="20%" align="center">
+
+### 🟢 2023
+
+**ML INTERN**
+
+AI Club IGDTUW
+
+`Python`  
+`ML`  
+`EDA`
+
+</td>
+
+<td width="20%" align="center">
+
+### 🟣 2023
+
+**OPEN SOURCE**
+
+SWOC
+
+`Git`  
+`GitHub`  
+`Collaboration`
+
+</td>
+
+</tr>
+</table>
 
 </div>
-
-```text
-2026
-│
-├── DATA ANALYST
-│   NoviTech R&D Pvt Ltd
-│   Excel • SQL • Python • Power BI
-│
-│
-2025
-│
-├── DATA SCIENCE INTERN
-│   IIT Madras Pravartak / Internshala
-│   Data Science • Predictive Analytics
-│
-│
-2024
-│
-├── GENERATIVE AI INTERN
-│   Sansoftech Services
-│   GenAI • Prompt Engineering
-│
-│
-2023
-│
-├── ML INTERN
-│   AI Club IGDTUW
-│   Python • ML • EDA
-│
-│
-2023
-│
-└── OPEN SOURCE CONTRIBUTOR
-    Social Winter of Code
-    Git • GitHub • Collaboration
-```
 
 ---
 
@@ -341,10 +484,10 @@ I explore:
 
 ### 🎯
 
-## 95%
+**95%**
 
-**ML / Predictive
-Analytics Accuracy**
+ML / Predictive  
+Analytics Accuracy
 
 </td>
 
@@ -352,10 +495,10 @@ Analytics Accuracy**
 
 ### 🔬
 
-## RESEARCH
+**RESEARCH**
 
-**Skin Cancer
-Image Classification**
+Skin Cancer  
+Image Classification
 
 </td>
 
@@ -363,10 +506,10 @@ Image Classification**
 
 ### 🤖
 
-## HACKATHON
+**HACKATHON**
 
-**ET GenAI
-Semi-Finalist**
+ET GenAI  
+Semi-Finalist
 
 </td>
 
@@ -374,10 +517,10 @@ Semi-Finalist**
 
 ### 🌐
 
-## OPEN SOURCE
+**OPEN SOURCE**
 
-**SWOC
-Contributor**
+SWOC  
+Contributor
 
 </td>
 
@@ -385,10 +528,10 @@ Contributor**
 
 ### 🥇
 
-## TOP 1%
+**TOP 1%**
 
-**IIT Kanpur
-Recognition**
+IIT Kanpur  
+Recognition
 
 </td>
 
@@ -399,142 +542,255 @@ Recognition**
 
 ---
 
-# 👑 BEYOND THE CODE
-
-Technology isn't only about writing code.
-
-It's also about **leading, communicating, collaborating, and helping others grow.**
-
-```text
-INNERVE
-Head Coordinator
-        │
-        ↓
-IGDTUW
-GEC Coordinator
-        │
-        ↓
-IEEE IGDTUW
-Website Coordinator
-        │
-        ↓
-Desh Ke Mentor
-Mentor
-        │
-        ↓
-Social Winter of Code
-Contributor
-        │
-        ↓
-Google Cloud Arcade
-Participant
-```
-
----
-
-# 📚 LEARNING NEVER STOPS
+# 👑 LEADERSHIP
 
 <div align="center">
 
-```text
-PYTHON
-████████████████████
+<table>
+<tr>
 
-DATA ANALYTICS
-████████████████████
+<td align="center">
 
-MACHINE LEARNING
-██████████████████░░
+👑  
+**INNERVE**
 
-GENERATIVE AI
-████████████████░░░░
+Head Coordinator
 
-AI APPLICATIONS
-██████████████░░░░░░
+</td>
 
-RESEARCH
-███████████░░░░░░░░░
-```
+<td align="center">
+
+🎓  
+**IGDTUW**
+
+GEC Coordinator
+
+</td>
+
+<td align="center">
+
+🌐  
+**IEEE IGDTUW**
+
+Website Coordinator
+
+</td>
+
+<td align="center">
+
+🤝  
+**DESH KE MENTOR**
+
+Mentor
+
+</td>
+
+<td align="center">
+
+💻  
+**SWOC**
+
+Contributor
+
+</td>
+
+<td align="center">
+
+☁️  
+**GOOGLE CLOUD**
+
+Participant
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
-> **Progress doesn't mean knowing everything.
-> Progress means understanding something better than yesterday.**
-
 ---
 
-# 🧪 MY BUILD PHILOSOPHY
+# 🧪 MY BUILD CYCLE
 
 <div align="center">
 
-### `LEARN → BUILD → BREAK → FIX → LEARN AGAIN`
+<table>
+<tr>
+
+<td align="center">
+
+💡  
+**IDEA**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🧪  
+**EXPERIMENT**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+❌  
+**FAIL**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🔍  
+**DEBUG**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🧠  
+**LEARN**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🔨  
+**BUILD**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🚀  
+**SHIP**
+
+</td>
+
+</tr>
+</table>
+
+### `REPEAT`
+
+</div>
+
+---
+
+# 📚 CURRENT FOCUS
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+📊
+
+**ADVANCED  
+DATA ANALYTICS**
+
+🟢 ACTIVE
+
+</td>
+
+<td align="center">
+
+🤖
+
+**MACHINE  
+LEARNING**
+
+🟢 ACTIVE
+
+</td>
+
+<td align="center">
+
+✨
+
+**GENERATIVE  
+AI**
+
+🟢 ACTIVE
+
+</td>
+
+<td align="center">
+
+🧠
+
+**AI  
+APPLICATIONS**
+
+🟢 ACTIVE
+
+</td>
+
+<td align="center">
+
+🌐
+
+**OPEN  
+SOURCE**
+
+🟡 EXPLORING
+
+</td>
+
+<td align="center">
+
+🔬
+
+**RESEARCH**
+
+🟡 EXPLORING
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🗺️ THE ROAD AHEAD
+
+<div align="center">
+
+<table>
+<tr>
+
+<td>📊<br><b>DATA</b></td>
+<td>→</td>
+<td>🤖<br><b>ML</b></td>
+<td>→</td>
+<td>🧠<br><b>AI</b></td>
+<td>→</td>
+<td>✨<br><b>GENAI</b></td>
+<td>→</td>
+<td>🚀<br><b>AI PRODUCTS</b></td>
+<td>→</td>
+<td>🌍<br><b>IMPACT</b></td>
+
+</tr>
+</table>
 
 <br>
 
-```text
-         💡 IDEA
-           ↓
-       🧪 EXPERIMENT
-           ↓
-        ❌ FAIL
-           ↓
-       🔍 DEBUG
-           ↓
-        🧠 LEARN
-           ↓
-        🔨 BUILD
-           ↓
-        🚀 SHIP
-           ↓
-        🔁 REPEAT
-```
-
-</div>
-
----
-
-# 🌱 CURRENTLY EXPLORING
-
-<div align="center">
-
-| AREA                       |    STATUS    |
-| :------------------------- | :----------: |
-| 📊 Advanced Data Analytics |   🟢 ACTIVE  |
-| 🤖 Machine Learning        |   🟢 ACTIVE  |
-| ✨ Generative AI            |   🟢 ACTIVE  |
-| 🧠 AI Applications         |   🟢 ACTIVE  |
-| 🌐 Open Source             | 🟡 EXPLORING |
-| 🔬 Research                | 🟡 EXPLORING |
-
-</div>
-
----
-
-# 🗺️ WHERE I'M HEADING
-
-<div align="center">
-
-```text
-DATA ANALYTICS
-      ↓
-MACHINE LEARNING
-      ↓
-AI SYSTEMS
-      ↓
-GENERATIVE AI
-      ↓
-AI PRODUCTS
-      ↓
-OPEN SOURCE
-      ↓
-RESEARCH
-      ↓
-REAL-WORLD IMPACT
-```
-
-### Not a destination.
-
-### **A direction.**
+### **The destination changes. The direction doesn't.**
 
 </div>
 
@@ -577,50 +833,60 @@ alt="GitHub Contribution Snake"/>
 
 ---
 
-# 💜 ONE LAST THING
+# 💜 LET'S BUILD SOMETHING
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════╗
-║                                            ║
-║        DATA IS EVERYWHERE.                 ║
-║        INSIGHT IS POWERFUL.                ║
-║        INTELLIGENCE IS THE FUTURE.         ║
-║                                            ║
-║        I'M HERE TO BUILD. 🚀               ║
-║                                            ║
-╚════════════════════════════════════════════╝
-```
-
-### **Turning Data into Insights.**
-
-### **Turning Ideas into Intelligent Solutions.**
+### **Ideas are better when they become projects.**
 
 <br>
 
-<a href="https://www.linkedin.com/in/mansi-kushwaikhwa-igdtuw">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-9B5CFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<table>
+<tr>
 
-<a href="mailto:mansikushwaikha1313@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<td align="center">
 
 <a href="https://github.com/Mansi232323">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-6E40C6?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-6E40C6?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
-<br><br>
+</td>
+
+<td align="center">
+
+<a href="https://www.linkedin.com/in/mansi-kushwaha-igdtuw">
+
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-9B5CFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="mailto:mansikushwaikha1313@gmail.com">
+
+<img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Mansi232323&label=PROFILE%20VIEWS&color=9B5CFF&style=for-the-badge"/>
 
 <br><br>
 
-### `BUILD • LEARN • EXPERIMENT • IMPACT`
+# `DATA → INSIGHT → INTELLIGENCE → IMPACT`
+
+### `BUILD • LEARN • EXPERIMENT • REPEAT`
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,14,18,20,24"/>
-```
-
