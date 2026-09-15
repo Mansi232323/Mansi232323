@@ -2,22 +2,26 @@
 
 # 💜 MANSI KUSHWAHA
 
-### `DATA ANALYST` • `DATA SCIENTIST` • `ML ENGINEER` • `AI ENGINEER`
+### `DATA ANALYST` • `DATA SCIENTIST` • `AI/ML ENGINEER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=800&color=9B5CFF&center=true&vCenter=true&width=900&lines=Turning+Data+into+Actionable+Insights+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Data+Analytics+%7C+Machine+Learning+%7C+Generative+AI;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Impact+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=9B5CFF&center=true&vCenter=true&width=850&lines=Data+%7C+Analytics+%7C+AI+%7C+Machine+Learning;Turning+Raw+Data+into+Business+Insights+%F0%9F%93%8A;Building+AI-Powered+Solutions+%F0%9F%A4%96;Analytics+%2B+AI+%2B+Business+Impact+%F0%9F%9A%80"/>
 
 <br>
 
-<a href="https://github.com/Mansi232323">
-<img src="https://img.shields.io/badge/GITHUB-Mansi232323-9B5CFF?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="#-professional-summary">
+<img src="https://img.shields.io/badge/ABOUT%20ME-9B5CFF?style=for-the-badge"/>
 </a>
-
-<a href="https://www.linkedin.com/in/mansi-kushwaha-igdtuw">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="#-experience">
+<img src="https://img.shields.io/badge/EXPERIENCE-7B2CBF?style=for-the-badge"/>
 </a>
-
-<a href="mailto:mansikushwaha1313@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-FF4B8B?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="#-projects">
+<img src="https://img.shields.io/badge/PROJECTS-8338EC?style=for-the-badge"/>
+</a>
+<a href="#-skills">
+<img src="https://img.shields.io/badge/SKILLS-00B4D8?style=for-the-badge"/>
+</a>
+<a href="#-contact">
+<img src="https://img.shields.io/badge/CONTACT-FF4B8B?style=for-the-badge"/>
 </a>
 
 <br><br>
@@ -30,342 +34,434 @@
 
 <div align="center">
 
-## 🧭 NAVIGATION
+## 🪪 DIGITAL RESUME
 
-[👩‍💻 About](#-about-me) •
-[🛠️ Skills](#-tech-stack) •
-[💼 Experience](#-experience) •
-[🚀 Projects](#-featured-projects) •
-[🏆 Achievements](#-achievements) •
-[📊 GitHub](#-github-analytics) •
-[🎯 Roadmap](#-2026-roadmap) •
-[🤝 Connect](#-lets-connect)
+|                        |                                                |
+| :--------------------: | :--------------------------------------------: |
+|    🎓 **Education**    | B.Tech — ECE (Artificial Intelligence), IGDTUW |
+|   💼 **Primary Role**  |                  Data Analyst                  |
+| 🤖 **Secondary Focus** |          Data Science • AI/ML • GenAI          |
+|    📊 **Core Stack**   |         Excel • SQL • Python • Power BI        |
+|     🧠 **AI Stack**    |          ML • DL • NLP • GenAI • LLMs          |
+|     📍 **Location**    |               Greater Delhi Area               |
+|      🚀 **Status**     |              Open to Opportunities             |
 
 </div>
 
 ---
 
-# 👩‍💻 ABOUT ME
+# 👩‍💻 PROFESSIONAL SUMMARY
 
-<table>
-<tr>
+> **Data & AI professional focused on transforming complex datasets into actionable business insights and intelligent solutions.**
 
-<td width="58%" valign="top">
+I work across **Data Analytics, Business Intelligence, Machine Learning and Generative AI**, combining technical skills with business-oriented problem solving.
 
-## 💜 Who Am I?
-
-I'm **Mansi Kushwaha**, a B.Tech graduate in **Electronics & Communication Engineering (Artificial Intelligence)** from **IGDTUW**.
-
-I enjoy transforming **raw data → insights → intelligent solutions**.
-
-My work sits at the intersection of:
-
-📊 **Data Analytics**
-🤖 **Machine Learning**
-🧠 **Artificial Intelligence**
-✨ **Generative AI**
-📈 **Business Intelligence**
-
-I'm particularly interested in building solutions that combine **analytics, automation and AI** to solve practical business problems.
-
-<br>
-
-### 🔎 Currently Exploring
-
-`Advanced Analytics` `SQL` `Power BI` `Machine Learning` `LLMs` `RAG` `AI Agents`
-
-</td>
-
-<td width="42%" align="center">
-
-## ⚡ MY DATA JOURNEY
+My strongest interest is building solutions that follow the complete journey:
 
 ```text
-        📥 DATA
-          ↓
-      🧹 CLEAN
-          ↓
-     🔄 TRANSFORM
-          ↓
-       🔍 EDA
-          ↓
-     📊 VISUALIZE
-          ↓
-      🤖 MODEL
-          ↓
-      💡 INSIGHT
-          ↓
-      🚀 IMPACT
+BUSINESS PROBLEM
+       ↓
+     DATA
+       ↓
+   ANALYTICS
+       ↓
+   INSIGHTS
+       ↓
+      AI
+       ↓
+   SOLUTION
+       ↓
+    IMPACT
 ```
 
-### 💭 Philosophy
+### 🎯 What I am looking for
 
-**Learn → Build → Experiment → Impact**
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🎮 QUICK PROFILE
-
-<div align="center">
-
-|        🎯 Focus       |    💻 Primary Stack   | 🧠 Interests |          🚀 Goal         |
-| :-------------------: | :-------------------: | :----------: | :----------------------: |
-|     Data Analytics    |  Excel + SQL + Python |    AI / ML   | Build Impactful Products |
-| Business Intelligence |     Power BI + DAX    | GenAI / LLMs |   Data-Driven Decisions  |
-|  Predictive Analytics | Pandas + Scikit-learn |   NLP / CV   |    Continuous Learning   |
-
-</div>
-
----
-
-# 🛠️ TECH STACK
-
-<div align="center">
-
-### 📊 DATA & ANALYTICS
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres&perline=6"/>
-
-<br>
-
-`Excel` `Power Query` `Power Pivot` `DAX` `Power BI` `Tableau` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
----
-
-### 🤖 AI / MACHINE LEARNING
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6"/>
-
-<br>
-
-`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `BERT` `Transformers` `Generative AI` `LLMs` `Prompt Engineering`
-
----
-
-### 💻 DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,git,github,vscode&perline=8"/>
-
----
-
-### ☁️ TOOLS & PLATFORMS
-
-<img src="https://skillicons.dev/icons?i=jupyter,anaconda,gcp&perline=6"/>
-
-`Google Colab` `Git` `GitHub` `VS Code` `Anaconda` `Google Cloud`
-
-</div>
-
----
-
-# 📊 SKILL MATRIX
-
-<div align="center">
-
-| Skill               | Level                    |
-| ------------------- | ------------------------ |
-| 🐍 Python           | ██████████████████░░ 90% |
-| 🗄️ SQL             | █████████████████░░░ 85% |
-| 📗 Excel            | ██████████████████░░ 90% |
-| 📊 Power BI         | ████████████████░░░░ 80% |
-| 🔄 Power Query      | ████████████████░░░░ 80% |
-| 🤖 Machine Learning | ███████████████░░░░░ 75% |
-| 🧠 Deep Learning    | ██████████████░░░░░░ 70% |
-| ✨ Generative AI     | ███████████████░░░░░ 75% |
-| 📈 Tableau          | ██████████████░░░░░░ 70% |
-
-</div>
-
-> ⚠️ Skill percentages represent my current self-assessment and are intended as a quick visual overview.
+**Data Analyst | Business Analyst | Data Scientist | ML Engineer | AI Engineer**
 
 ---
 
 # 💼 EXPERIENCE
 
+<div align="center">
+
+### 🟢 2026 — DATA ANALYST
+
+**NoviTech R&D Pvt Ltd**
+
+`Excel` `SQL` `Python` `Power BI`
+
+---
+
+### 🟣 2025 — DATA SCIENCE INTERN
+
+**IIT Madras Pravartak / Internshala**
+
+`Data Science` `EDA` `Predictive Analytics` `Machine Learning`
+
+---
+
+### 🔵 2024 — GENERATIVE AI INTERN
+
+**Sansoftech Services**
+
+`Generative AI` `Prompt Engineering` `AI Applications`
+
+---
+
+### 🟢 2023 — MACHINE LEARNING INTERN
+
+**AI Club — IGDTUW**
+
+`Python` `Machine Learning` `EDA` `Data Analysis`
+
+---
+
+### 🟣 2023 — OPEN SOURCE CONTRIBUTOR
+
+**Social Winter of Code**
+
+`Git` `GitHub` `Collaboration` `Open Source`
+
+</div>
+
+---
+
+# 📊 CAREER TIMELINE
+
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│ 🟢 2026                                                      │
-│ DATA ANALYST                                                  │
-│ NoviTech R&D Pvt Ltd                                         │
-│ Excel • SQL • Python • Power BI                              │
-└───────────────────────────────┬──────────────────────────────┘
-                                │
-                                ▼
-┌──────────────────────────────────────────────────────────────┐
-│ 🟣 2025                                                      │
-│ DATA SCIENCE INTERN                                           │
-│ IIT Madras Pravartak / Internshala                           │
-│ Data Science • Predictive Analytics                          │
-└───────────────────────────────┬──────────────────────────────┘
-                                │
-                                ▼
-┌──────────────────────────────────────────────────────────────┐
-│ 🔵 2024                                                      │
-│ GENERATIVE AI INTERN                                         │
-│ Sansoftech Services                                          │
-│ GenAI • Prompt Engineering                                   │
-└───────────────────────────────┬──────────────────────────────┘
-                                │
-                                ▼
-┌──────────────────────────────────────────────────────────────┐
-│ 🟢 2023                                                      │
-│ MACHINE LEARNING INTERN                                      │
-│ AI Club IGDTUW                                               │
-│ Python • ML • EDA                                             │
-└──────────────────────────────────────────────────────────────┘
+2023
+ │
+ ├── 🤖 Machine Learning Internship
+ │
+ ├── 👑 Technical Leadership
+ │
+ └── 🌐 Open Source
+ │
+ ▼
+2024
+ │
+ └── ✨ Generative AI Internship
+ │
+ ▼
+2025
+ │
+ └── 📊 Data Science Internship
+ │
+ ▼
+2026
+ │
+ └── 📈 Data Analytics
+ │
+ ▼
+NOW
+ │
+ ├── Advanced Analytics
+ ├── AI / ML
+ ├── GenAI
+ ├── RAG
+ └── AI Products
 ```
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀 PROJECTS
+
+## ⭐ PROJECT 01 — RETAIL SALES ANALYTICS
 
 <div align="center">
 
-### 💜 Click a project to explore the repository
+### 📊 BUSINESS INTELLIGENCE DASHBOARD
+
+`Excel` `Power Query` `Power Pivot` `DAX` `PivotTables`
 
 </div>
 
-<table>
-<tr>
+**Problem**
 
-<td width="50%" valign="top">
+Transform raw retail transaction data into a decision-ready analytics system.
 
-## 📊 Retail Sales Analytics
+**Built**
 
-**Excel • Power Query • Power Pivot • DAX**
+```text
+RAW TRANSACTIONS
+       ↓
+POWER QUERY
+       ↓
+DATA MODEL
+       ↓
+DAX
+       ↓
+PIVOTTABLES
+       ↓
+DASHBOARD
+       ↓
+BUSINESS INSIGHTS
+```
 
-Interactive business intelligence dashboard containing:
+### 🔎 Key Features
 
-* KPI analysis
+* KPI dashboard
+* Revenue analysis
+* Product performance
+* Customer analysis
+* Store analysis
 * Sales trends
-* Product analysis
-* Customer insights
-* Store performance
 * Interactive slicers
-* PivotTables
-* Data transformation
+* Power Query transformation
+* Power Pivot data model
+* DAX calculations
+
+🔗 **[View Repository →](https://github.com/Mansi232323)**
+
+---
+
+## ⭐ PROJECT 02 — DIGIMENTOR AI
+
+<div align="center">
+
+### 🤖 AGENTIC AI BANKING OPERATING SYSTEM
+
+`Python` `AI` `Data Analytics` `Streamlit`
+
+</div>
+
+An AI-powered banking analytics platform designed to convert customer data into actionable financial intelligence.
+
+### 🧠 Features
+
+| Module               | Capability                   |
+| -------------------- | ---------------------------- |
+| 🔎 Customer Search   | Search & analyze customers   |
+| 🧬 Financial DNA     | Customer financial profiling |
+| ❤️ Health Score      | Financial health analysis    |
+| 📉 Adoption Gap      | Product adoption insights    |
+| 🤖 AI Council        | AI-powered recommendations   |
+| 🔮 Life Events       | Scenario simulation          |
+| 📊 Manager Dashboard | Portfolio intelligence       |
 
 🔗 **[View Project →](https://github.com/Mansi232323)**
 
-</td>
+---
 
-<td width="50%" valign="top">
+## ⭐ PROJECT 03 — ARCHIVIST
 
-## 🤖 DIGIMENTOR AI
+<div align="center">
 
-**Agentic AI • Banking Analytics**
+### 🧠 RAG DOCUMENT Q&A PLATFORM
 
-AI-powered banking analytics platform featuring:
+`FastAPI` `React` `SQLite` `TF-IDF`
 
-* Customer search
-* Financial DNA
-* Health score
-* Adoption gap
-* AI Council
-* Life-event simulation
-* Manager dashboard
+</div>
 
-🔗 **[View Project →](https://github.com/Mansi232323)**
+A document intelligence platform designed for searching, retrieving and answering questions from uploaded documents.
 
-</td>
+### ⚙️ Architecture
 
-</tr>
+```text
+DOCUMENT
+   ↓
+INGESTION
+   ↓
+PROCESSING
+   ↓
+INDEXING
+   ↓
+RETRIEVAL
+   ↓
+QUESTION
+   ↓
+ANSWER
+```
 
-<tr>
-
-<td width="50%" valign="top">
-
-## 🧠 Archivist RAG
-
-**FastAPI • React • SQLite • TF-IDF**
-
-Document Q&A platform designed for intelligent document retrieval and question answering.
-
-Features:
+### ✨ Features
 
 * Document ingestion
-* Semantic retrieval
-* Q&A interface
-* Analytics dashboard
+* Search
+* Retrieval
+* Q&A
+* Analytics
+* React frontend
+* FastAPI backend
 * Offline-first architecture
 
 🔗 **[View Project →](https://github.com/Mansi232323)**
 
-</td>
+---
 
-<td width="50%" valign="top">
+## ⭐ PROJECT 04 — ABG MOTORS
 
-## 🚗 ABG Motors Analytics
+<div align="center">
 
-**Python • Machine Learning • Predictive Analytics**
+### 🚗 CUSTOMER PURCHASE PREDICTION
 
-Customer prediction project designed to identify potential automobile buyers.
+`Python` `Pandas` `Scikit-learn` `Logistic Regression`
 
-**Model**
+</div>
 
-`Logistic Regression`
+### 📈 Model Performance
 
-**ROC-AUC**
+| Metric              |     Result |
+| ------------------- | ---------: |
+| Accuracy            |   **0.88** |
+| Precision           |   **0.86** |
+| Recall              |   **0.83** |
+| F1 Score            |   **0.84** |
+| ROC-AUC             |   **0.91** |
+| Potential Customers | **34,338** |
 
-`0.91`
+### 🎯 Objective
 
-**Potential Customers**
-
-`34,338`
+Identify potential automobile customers and support data-driven marketing decisions.
 
 🔗 **[View Project →](https://github.com/Mansi232323)**
 
-</td>
+---
 
-</tr>
+## ⭐ PROJECT 05 — SKIN CANCER CLASSIFICATION
 
-<tr>
+<div align="center">
 
-<td width="50%" valign="top">
+### 🔬 DEEP LEARNING RESEARCH PROJECT
 
-## 🔬 Skin Cancer Classification
+`CNN` `ResNet50` `EfficientNetB0` `Computer Vision`
 
-**Deep Learning • Computer Vision**
+</div>
 
-Comparative study of skin cancer image classification techniques using HAM10000.
+Comparative research on skin cancer image classification techniques using the HAM10000 dataset.
 
-Best hybrid model:
+### 🧪 Best Hybrid Architecture
 
-`ResNet50 + EfficientNetB0`
+```text
+        IMAGE
+          ↓
+      RESNET50
+          +
+     EFFICIENTNETB0
+          ↓
+     CLASSIFICATION
+```
 
-Research-focused project involving image classification and model comparison.
+**Best Test Performance:** `83.23%`
 
-🔗 **[Research / GitHub →](https://github.com/Mansi232323)**
+**Research Status:** Accepted
 
-</td>
+🔗 **[Research / Repository →](https://github.com/Mansi232323)**
 
-<td width="50%" valign="top">
+---
 
-## 💰 MANSHORA
+## ⭐ PROJECT 06 — MANSHORA
 
-**Finance × AI × Analytics**
+<div align="center">
 
-A fintech intelligence platform concept combining:
+### 💜 FINANCE × AI × ANALYTICS
 
-* AI Financial Assistant
-* Financial Analytics
-* Revenue Analytics
-* Expense Analytics
-* Forecasting
-* Automated Reports
-* Business Intelligence
+`AI` `Finance` `Analytics` `LLM` `Business Intelligence`
+
+</div>
+
+A next-generation financial intelligence platform concept.
+
+### 💰 Product Ecosystem
+
+```text
+                 MANSHORA
+                    │
+       ┌────────────┼────────────┐
+       ↓            ↓            ↓
+  AI ASSISTANT   ANALYTICS   FORECASTING
+       │            │            │
+       └────────────┼────────────┘
+                    ↓
+             FINANCIAL INTELLIGENCE
+```
+
+### Products
+
+* 🤖 AI Financial Assistant
+* 📊 Financial Analytics Dashboard
+* 💰 Expense Analytics
+* 📈 Revenue Analytics
+* 🔮 Financial Forecasting
+* 📑 Automated Reports
 
 🔗 **[Explore →](https://github.com/Mansi232323)**
 
-</td>
+---
 
-</tr>
-</table>
+# 🧰 SKILLS
+
+<div align="center">
+
+## 📊 DATA ANALYTICS
+
+`Excel` `Power Query` `Power Pivot` `DAX` `Power BI` `SQL` `MySQL` `PostgreSQL`
+
+## 🐍 PROGRAMMING
+
+`Python` `C++` `JavaScript` `HTML` `CSS`
+
+## 🤖 MACHINE LEARNING
+
+`Scikit-learn` `TensorFlow` `PyTorch` `Machine Learning` `Deep Learning`
+
+## 🧠 ARTIFICIAL INTELLIGENCE
+
+`NLP` `Computer Vision` `BERT` `Transformers` `Generative AI` `LLMs`
+
+## 📈 DATA SCIENCE
+
+`Pandas` `NumPy` `EDA` `Statistics` `Predictive Analytics` `Matplotlib` `Seaborn`
+
+## 🛠️ DEVELOPMENT
+
+`FastAPI` `React` `Streamlit` `Git` `GitHub` `Jupyter` `VS Code` `Google Colab`
+
+</div>
+
+---
+
+# 🧠 SKILL DEPTH
+
+<details>
+<summary>📊 <b>DATA ANALYTICS</b></summary>
+
+```text
+Excel             ██████████████████░░
+SQL               █████████████████░░░
+Power BI          ████████████████░░░░
+Power Query       ████████████████░░░░
+DAX               ███████████████░░░░░
+Tableau           ██████████████░░░░░░
+```
+
+</details>
+
+<details>
+<summary>🤖 <b>AI / MACHINE LEARNING</b></summary>
+
+```text
+Machine Learning  ███████████████░░░░░
+Deep Learning     ██████████████░░░░░░
+Generative AI     ███████████████░░░░░
+NLP               ██████████████░░░░░░
+Computer Vision   ██████████████░░░░░░
+LLMs              ██████████████░░░░░░
+```
+
+</details>
+
+<details>
+<summary>💻 <b>DEVELOPMENT</b></summary>
+
+```text
+Python            ██████████████████░░
+Git/GitHub        █████████████████░░░
+FastAPI            █████████████░░░░░░░
+React              ████████████░░░░░░░░
+Streamlit          ███████████████░░░░░
+```
+
+</details>
 
 ---
 
@@ -379,40 +475,43 @@ A fintech intelligence platform concept combining:
 
 <td align="center">
 
-### 🥇 TOP 1%
+🥇
 
-**IIT Kanpur**
+### TOP 1%
 
-NPTEL Recognition
-
-</td>
-
-<td align="center">
-
-### 🔬 RESEARCH
-
-**Skin Cancer**
-
-Image Classification
+NPTEL / IIT Kanpur
 
 </td>
 
 <td align="center">
 
-### 🤖 HACKATHON
+🔬
 
-**ET GenAI**
+### RESEARCH
 
+Skin Cancer
+Classification
+
+</td>
+
+<td align="center">
+
+🤖
+
+### HACKATHON
+
+ET GenAI
 Semi-Finalist
 
 </td>
 
 <td align="center">
 
-### 🌐 OPEN SOURCE
+🌐
 
-**SWOC**
+### OPEN SOURCE
 
+SWOC
 Contributor
 
 </td>
@@ -427,17 +526,42 @@ Contributor
 
 # 👑 LEADERSHIP
 
+```text
+👑 HEAD COORDINATOR
+   INNERVE
+
+🎓 GEC COORDINATOR
+   IGDTUW
+
+🌐 WEBSITE COORDINATOR
+   IEEE IGDTUW
+
+🤝 MENTOR
+   Desh Ke Mentor
+
+💻 OPEN SOURCE CONTRIBUTOR
+   Social Winter of Code
+
+☁️ PARTICIPANT
+   Google Cloud Arcade
+
+👩‍💻 MENTEE
+   GDSC IGDTUW
+```
+
+---
+
+# 🎓 EDUCATION
+
 <div align="center">
 
-| 👑 Role             | 🏢 Organization       |
-| ------------------- | --------------------- |
-| Head Coordinator    | INNERVE               |
-| GEC Coordinator     | IGDTUW                |
-| Website Coordinator | IEEE IGDTUW           |
-| Mentor              | Desh Ke Mentor        |
-| Contributor         | Social Winter of Code |
-| Participant         | Google Cloud Arcade   |
-| Mentee              | GDSC IGDTUW           |
+## 🏛️ INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN
+
+### B.Tech — Electronics & Communication Engineering
+
+### Specialization: Artificial Intelligence
+
+**CGPA: 8.66**
 
 </div>
 
@@ -446,82 +570,109 @@ Contributor
 # 📜 CERTIFICATIONS & LEARNING
 
 <details>
-<summary><b>🐍 Python & Machine Learning</b></summary>
+<summary>🐍 Python & Machine Learning Internship</summary>
 
-7-Week internship focused on Python, Machine Learning, EDA and practical analytics.
+**7-Week Internship**
 
-</details>
-
-<details>
-<summary><b>✨ Generative AI & Prompt Engineering</b></summary>
-
-6-Week internship focused on Generative AI, prompt engineering and AI-powered applications.
+Python • Machine Learning • EDA • Practical Analytics
 
 </details>
 
 <details>
-<summary><b>📊 Data Science</b></summary>
+<summary>✨ Generative AI Internship</summary>
 
-8-Week internship focused on data science and predictive analytics.
+**6-Week Internship**
+
+Generative AI • Prompt Engineering • AI Applications
 
 </details>
 
 <details>
-<summary><b>🎓 NPTEL</b></summary>
+<summary>📊 Data Science Internship</summary>
 
-Developing Soft Skills & Personality — IIT Kanpur.
+**8-Week Internship**
+
+Data Science • Predictive Analytics • Machine Learning
+
+</details>
+
+<details>
+<summary>🥇 NPTEL Certifications</summary>
+
+* Forest & Environment — Elite + Top 1%
+* Psychology of Language — Elite Gold
+* Soft Skills — Elite + Silver
+* Data Science
 
 </details>
 
 ---
 
-# 🧠 AI / DATA PIPELINE
+# 💡 WHAT I CAN DO
 
 <div align="center">
 
-```text
-                ┌───────────────┐
-                │   📥 COLLECT  │
-                └───────┬───────┘
-                        ↓
-                ┌───────────────┐
-                │   🧹 CLEAN    │
-                └───────┬───────┘
-                        ↓
-                ┌───────────────┐
-                │ 🔄 TRANSFORM  │
-                └───────┬───────┘
-                        ↓
-                ┌───────────────┐
-                │    🔍 EDA     │
-                └───────┬───────┘
-                        ↓
-                ┌───────────────┐
-                │ 📊 VISUALIZE  │
-                └───────┬───────┘
-                        ↓
-                ┌───────────────┐
-                │   🤖 MODEL    │
-                └───────┬───────┘
-                        ↓
-                ┌───────────────┐
-                │  💡 INSIGHT   │
-                └───────┬───────┘
-                        ↓
-                ┌───────────────┐
-                │  🚀 IMPACT    │
-                └───────────────┘
-```
+| BUSINESS NEED           | WHAT I BUILD                   |
+| ----------------------- | ------------------------------ |
+| 📊 Messy Data           | Data Cleaning & Transformation |
+| 📈 No Visibility        | Interactive Dashboards         |
+| 💰 Business Questions   | KPI & Analytics Systems        |
+| 🔮 Need Predictions     | Machine Learning Models        |
+| 🤖 Manual Processes     | AI Automation                  |
+| 📚 Large Documents      | RAG / Document Intelligence    |
+| 🧠 Complex Data         | AI-Powered Insights            |
+| 📑 Repetitive Reporting | Automated Analytics            |
 
 </div>
 
 ---
 
-# 📈 GITHUB ANALYTICS
+# 🔥 MY WORKING STYLE
+
+```diff
++ ANALYZE
++ QUESTION
++ EXPERIMENT
++ BUILD
++ TEST
++ IMPROVE
++ AUTOMATE
++ DELIVER
+```
+
+### My principle:
+
+> **Don't just build a model. Build a solution.**
+
+---
+
+# 🎯 2026 FOCUS
 
 <div align="center">
 
-### 💜 MY CODING ACTIVITY
+### 📊 DATA ANALYTICS
+
+Advanced SQL • Power BI • DAX • Business Intelligence
+
+### 🤖 AI
+
+Machine Learning • Deep Learning • GenAI
+
+### 🧠 LLM ENGINEERING
+
+RAG • AI Agents • LLM Applications
+
+### 🚀 PRODUCT BUILDING
+
+Analytics Platforms • AI Assistants • FinTech AI
+
+</div>
+
+---
+
+# 📈 GITHUB ACTIVITY
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mansi232323&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
@@ -532,6 +683,10 @@ Developing Soft Skills & Personality — IIT Kanpur.
 <br>
 
 <img src="https://streak-stats.demolab.com?user=Mansi232323&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi232323&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -562,181 +717,75 @@ alt="GitHub Contribution Snake"/>
 
 ---
 
-# 📊 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi232323&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🎯 2026 ROADMAP
-
-<div align="center">
-
-```text
-                  CURRENT
-                     │
-                     ▼
-          📊 ADVANCED ANALYTICS
-                     │
-                     ▼
-             🗄️ ADVANCED SQL
-                     │
-                     ▼
-             🤖 MACHINE LEARNING
-                     │
-                     ▼
-               🧠 AI SYSTEMS
-                     │
-                     ▼
-              ✨ GENERATIVE AI
-                     │
-                     ▼
-                🤝 AI AGENTS
-                     │
-                     ▼
-                 🌐 RAG
-                     │
-                     ▼
-              🚀 AI PRODUCTS
-                     │
-                     ▼
-             🔬 RESEARCH
-                     │
-                     ▼
-             💡 REAL IMPACT
-```
-
-</div>
-
----
-
-# 💡 WHAT I BRING
-
-<div align="center">
-
-| 📊 ANALYTICS  | 🤖 AI            | 💻 ENGINEERING | 🚀 IMPACT             |
-| ------------- | ---------------- | -------------- | --------------------- |
-| Data Cleaning | Machine Learning | Python         | Problem Solving       |
-| SQL           | Deep Learning    | APIs           | Automation            |
-| Excel         | GenAI            | Git/GitHub     | Business Insights     |
-| Power BI      | NLP              | Web Apps       | Data Storytelling     |
-| DAX           | Computer Vision  | RAG            | Intelligent Solutions |
-
-</div>
-
----
-
-# 🧩 MY WORKFLOW
+# 📂 EXPLORE MY PROFILE
 
 <details>
-<summary><b>📊 When I receive a dataset...</b></summary>
+<summary>🚀 <b>PROJECTS</b></summary>
 
-```text
-Understand Business Problem
-          ↓
-Inspect Data
-          ↓
-Clean & Transform
-          ↓
-EDA
-          ↓
-Build KPIs
-          ↓
-Visualize
-          ↓
-Identify Patterns
-          ↓
-Build Model
-          ↓
-Communicate Insights
-          ↓
-Measure Impact
-```
+Explore my repositories for Data Analytics, Machine Learning, AI, GenAI and dashboard projects.
+
+**→ [Explore GitHub Repositories](https://github.com/Mansi232323?tab=repositories)**
 
 </details>
 
 <details>
-<summary><b>🤖 When I build an AI project...</b></summary>
+<summary>📊 <b>DATA ANALYTICS</b></summary>
 
-```text
-Problem
-  ↓
-Data
-  ↓
-Architecture
-  ↓
-Model / LLM
-  ↓
-Evaluation
-  ↓
-Application
-  ↓
-Testing
-  ↓
-Deployment
-  ↓
-Iteration
-```
+Excel • SQL • Power BI • Power Query • DAX • Tableau • Python
+
+</details>
+
+<details>
+<summary>🤖 <b>AI / ML</b></summary>
+
+Machine Learning • Deep Learning • NLP • Computer Vision • GenAI • LLMs
+
+</details>
+
+<details>
+<summary>🧠 <b>AI PROJECTS</b></summary>
+
+RAG • AI Assistants • Agentic AI • Intelligent Analytics • FinTech AI
 
 </details>
 
 ---
 
-# 🌟 CURRENT FOCUS
+# 📬 LET'S CONNECT
 
 <div align="center">
 
-### 🔥 LEARNING
+### 💜 LOOKING TO
 
-`Advanced SQL` • `Power BI` • `Machine Learning` • `Generative AI`
-
-### 🏗️ BUILDING
-
-`Analytics Dashboards` • `AI Applications` • `RAG Systems` • `FinTech AI`
-
-### 🎯 TARGET
-
-**Become a strong Data + AI professional who can turn business problems into intelligent, measurable solutions.**
-
-</div>
-
----
-
-# 🤝 LET'S CONNECT
-
-<div align="center">
-
-### 💜 OPEN TO
-
-`DATA ANALYTICS` • `DATA SCIENCE` • `AI/ML` • `GENAI` • `COLLABORATION`
+`BUILD` • `COLLABORATE` • `LEARN` • `INNOVATE`
 
 <br>
 
 <a href="https://www.linkedin.com/in/mansi-kushwaha-igdtuw">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-9B5CFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-9B5CFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:mansikushwaha1313@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact-FF4B8B?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-FF4B8B?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/Mansi232323">
-<img src="https://img.shields.io/badge/GITHUB-Follow-6E40C6?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-6E40C6?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <br><br>
 
-> ### 💜 *Turning Data into Insights.*
+> ## 💜 Turning Data into Insights
 >
-> ### *Turning Ideas into Intelligent Solutions.*
+> ## 🤖 Turning Ideas into Intelligent Solutions
 
-<br>
-
-### 🚀 CODE • BUILD • IMPACT • REPEAT
+### 🚀 CODE • ANALYZE • BUILD • IMPACT
 
 </div>
 
@@ -744,9 +793,9 @@ Iteration
 
 <div align="center">
 
-### ⭐ IF YOU LIKE MY WORK
+### ⭐ THANK YOU FOR VISITING
 
-**Explore my repositories • Star a project • Connect with me • Let's build something impactful**
+**If you find my work interesting, explore my repositories and let's connect!**
 
 <br>
 
